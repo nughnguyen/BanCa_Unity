@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 4bdb2c7dfc5a42548bb547099f93afac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8500453924219498065
+    second: Text_Electric_Gun_0
+  - first:
+      213: -3991297590244210245
+    second: Text_Electric_Gun_1
+  - first:
+      213: 6232415636497582720
+    second: Text_Electric_Gun_2
+  - first:
+      213: -8186751843975246364
+    second: Text_Electric_Gun_3
+  - first:
+      213: 3058104578112471046
+    second: Text_Electric_Gun_4
+  - first:
+      213: -1256772707226692976
+    second: Text_Electric_Gun_5
+  - first:
+      213: 2429685789017337906
+    second: Text_Electric_Gun_6
+  - first:
+      213: -5955603895905413834
+    second: Text_Electric_Gun_7
+  - first:
+      213: -8620696642157682299
+    second: Text_Electric_Gun_8
+  - first:
+      213: 2408642880888997461
+    second: Text_Electric_Gun_9
+  - first:
+      213: 8450042200411008601
+    second: Text_Electric_Gun_10
+  - first:
+      213: 4368511040355747816
+    second: Text_Electric_Gun_11
+  - first:
+      213: 7650988093043473990
+    second: Text_Electric_Gun_12
+  - first:
+      213: 4975201231581851706
+    second: Text_Electric_Gun_13
+  - first:
+      213: -6874137376915158275
+    second: Text_Electric_Gun_14
+  - first:
+      213: -8805105772666580193
+    second: Text_Electric_Gun_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Text_Electric_Gun_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 435
+        width: 263
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15eada68ecda7f570800000000000000
+      internalID: 8500453924219498065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Electric_Gun_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 435
+        width: 188
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb90f9c0dff0c98c0800000000000000
+      internalID: -3991297590244210245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Electric_Gun_2
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 359
+        width: 264
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a470a200dfd7650800000000000000
+      internalID: 6232415636497582720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Electric_Gun_3
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 435
+        width: 264
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edc49bb290d26e80800000000000000
+      internalID: -8186751843975246364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Electric_Gun_4
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 435
+        width: 188
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600c36849e1907a20800000000000000
+      internalID: 3058104578112471046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Electric_Gun_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 705
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092d856a1eb0f8ee0800000000000000
+      internalID: -1256772707226692976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Electric_Gun_6
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 359
+        width: 188
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23071322a5af7b120800000000000000
+      internalID: 2429685789017337906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Electric_Gun_7
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 206
+        width: 119
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63510a19fc1795da0800000000000000
+      internalID: -5955603895905413834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Electric_Gun_8
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 283
+        width: 188
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581e9cf04122d5880800000000000000
+      internalID: -8620696642157682299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Electric_Gun_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 440
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556892a40f73d6120800000000000000
+      internalID: 2408642880888997461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Electric_Gun_10
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 130
+        width: 267
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95eee8c6c94944570800000000000000
+      internalID: 8450042200411008601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Electric_Gun_11
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 208
+        width: 188
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7c6c555a110ac30800000000000000
+      internalID: 4368511040355747816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Electric_Gun_12
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 39
+        width: 267
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e799a4225cd2a60800000000000000
+      internalID: 7650988093043473990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Electric_Gun_13
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 130
+        width: 191
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30b58e09277b0540800000000000000
+      internalID: 4975201231581851706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Electric_Gun_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa8cb7f9782a90a0800000000000000
+      internalID: -6874137376915158275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Electric_Gun_15
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 43
+        width: 191
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13977283fafdc580800000000000000
+      internalID: -8805105772666580193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Text_Electric_Gun_0: 8500453924219498065
+      Text_Electric_Gun_1: -3991297590244210245
+      Text_Electric_Gun_10: 8450042200411008601
+      Text_Electric_Gun_11: 4368511040355747816
+      Text_Electric_Gun_12: 7650988093043473990
+      Text_Electric_Gun_13: 4975201231581851706
+      Text_Electric_Gun_14: -6874137376915158275
+      Text_Electric_Gun_15: -8805105772666580193
+      Text_Electric_Gun_2: 6232415636497582720
+      Text_Electric_Gun_3: -8186751843975246364
+      Text_Electric_Gun_4: 3058104578112471046
+      Text_Electric_Gun_5: -1256772707226692976
+      Text_Electric_Gun_6: 2429685789017337906
+      Text_Electric_Gun_7: -5955603895905413834
+      Text_Electric_Gun_8: -8620696642157682299
+      Text_Electric_Gun_9: 2408642880888997461
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

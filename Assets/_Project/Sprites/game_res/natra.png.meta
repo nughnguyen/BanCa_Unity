@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 7028e8b09f969064a8ccb1897eaa8f79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2434265794735659186
+    second: natra_0
+  - first:
+      213: -1538002375404532128
+    second: natra_1
+  - first:
+      213: -3346436382322611932
+    second: natra_2
+  - first:
+      213: -1818879683328788182
+    second: natra_3
+  - first:
+      213: 3344956765978370776
+    second: natra_4
+  - first:
+      213: -3782176820206332275
+    second: natra_5
+  - first:
+      213: -1026586105471786953
+    second: natra_6
+  - first:
+      213: 1586390060043849474
+    second: natra_7
+  - first:
+      213: -1862194923829015208
+    second: natra_8
+  - first:
+      213: 8562961936632788103
+    second: natra_9
+  - first:
+      213: -1307641277361478386
+    second: natra_10
+  - first:
+      213: 8099756531276077498
+    second: natra_11
+  - first:
+      213: 4384206191688729083
+    second: natra_12
+  - first:
+      213: 5712516665161914100
+    second: natra_13
+  - first:
+      213: -7620810584534089572
+    second: natra_14
+  - first:
+      213: 6389794664942728409
+    second: natra_15
+  - first:
+      213: 5674017482778171215
+    second: natra_16
+  - first:
+      213: 5572347802736657817
+    second: natra_17
+  - first:
+      213: -6776683683182535664
+    second: natra_18
+  - first:
+      213: 3672953658614922311
+    second: natra_19
+  - first:
+      213: -4921010915637979875
+    second: natra_20
+  - first:
+      213: 8767022788886422539
+    second: natra_21
+  - first:
+      213: -6411876724797106201
+    second: natra_22
+  - first:
+      213: 8714117881591338560
+    second: natra_23
+  - first:
+      213: -7317536781511673273
+    second: natra_24
+  - first:
+      213: 4048976802973461546
+    second: natra_25
+  - first:
+      213: 1739808687741992439
+    second: natra_26
+  - first:
+      213: 680431835664351734
+    second: natra_27
+  - first:
+      213: -1795572404004810643
+    second: natra_28
+  - first:
+      213: -3539508443407699487
+    second: natra_29
+  - first:
+      213: 4496905897232303640
+    second: natra_30
+  - first:
+      213: -7996930850478101128
+    second: natra_31
+  - first:
+      213: -2304840152242174737
+    second: natra_32
+  - first:
+      213: 4842610323271076288
+    second: natra_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: natra_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 796
+        width: 289
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b85a10d7df38c120800000000000000
+      internalID: 2434265794735659186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 886
+        width: 256
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e4e4efcfae7aae0800000000000000
+      internalID: -1538002375404532128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_2
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 875
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429a73827d11f81d0800000000000000
+      internalID: -3346436382322611932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 861
+        width: 253
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29330a909a02c6e0800000000000000
+      internalID: -1818879683328788182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_4
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 861
+        width: 252
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d22e21d47cab6e20800000000000000
+      internalID: 3344956765978370776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_5
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 873
+        width: 249
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8692e98832038bc0800000000000000
+      internalID: -3782176820206332275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_6
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 734
+        width: 255
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730a00c4065d0c1f0800000000000000
+      internalID: -1026586105471786953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_7
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 866
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fcf14ca5df30610800000000000000
+      internalID: 1586390060043849474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 287
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85dc2a645972826e0800000000000000
+      internalID: -1862194923829015208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_9
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 659
+        width: 256
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784303a4380c5d670800000000000000
+      internalID: 8562961936632788103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_10
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 572
+        width: 253
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e052b39bf235adde0800000000000000
+      internalID: -1307641277361478386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_11
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 643
+        width: 253
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab95cdd96ad186070800000000000000
+      internalID: 8099756531276077498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_12
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 713
+        width: 251
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1cca58d44d7dc30800000000000000
+      internalID: 4384206191688729083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 266
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6997804afe64f40800000000000000
+      internalID: 5712516665161914100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_14
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 433
+        width: 256
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c900f4076217d3690800000000000000
+      internalID: -7620810584534089572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_15
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 505
+        width: 255
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4f897a46c1da850800000000000000
+      internalID: 6389794664942728409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_16
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 350
+        width: 253
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47595e96d82ebe40800000000000000
+      internalID: 5674017482778171215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_17
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 424
+        width: 253
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9950c039dc4f45d40800000000000000
+      internalID: 5572347802736657817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_18
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 426
+        width: 253
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c18b4381264f1a0800000000000000
+      internalID: -6776683683182535664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_19
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 299
+        width: 256
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cb63274e3f8f230800000000000000
+      internalID: 3672953658614922311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_20
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 206
+        width: 253
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15149515ae05bbb0800000000000000
+      internalID: -4921010915637979875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_21
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 268
+        width: 252
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04645dd6c8baa970800000000000000
+      internalID: 8767022788886422539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_22
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 402
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e79fd227107407a0800000000000000
+      internalID: -6411876724797106201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 255
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046912f3b04cee870800000000000000
+      internalID: 8714117881591338560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 321
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a34233113e27a90800000000000000
+      internalID: -7317536781511673273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 351
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ca70d23fad03830800000000000000
+      internalID: 4048976802973461546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 354
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdfff998ca052810800000000000000
+      internalID: 1739808687741992439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_27
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 224
+        width: 256
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f104a24621617900800000000000000
+      internalID: 680431835664351734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 255
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d609cc27968d417e0800000000000000
+      internalID: -1795572404004810643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_29
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 90
+        width: 256
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e13037e2d321eec0800000000000000
+      internalID: -3539508443407699487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_30
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 92
+        width: 255
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81604e08618386e30800000000000000
+      internalID: 4496905897232303640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_31
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 134
+        width: 255
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87de3e3d2c1350190800000000000000
+      internalID: -7996930850478101128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_32
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 44
+        width: 252
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe44c85d7109300e0800000000000000
+      internalID: -2304840152242174737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natra_33
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 49
+        width: 252
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c946388e68643340800000000000000
+      internalID: 4842610323271076288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      natra_0: 2434265794735659186
+      natra_1: -1538002375404532128
+      natra_10: -1307641277361478386
+      natra_11: 8099756531276077498
+      natra_12: 4384206191688729083
+      natra_13: 5712516665161914100
+      natra_14: -7620810584534089572
+      natra_15: 6389794664942728409
+      natra_16: 5674017482778171215
+      natra_17: 5572347802736657817
+      natra_18: -6776683683182535664
+      natra_19: 3672953658614922311
+      natra_2: -3346436382322611932
+      natra_20: -4921010915637979875
+      natra_21: 8767022788886422539
+      natra_22: -6411876724797106201
+      natra_23: 8714117881591338560
+      natra_24: -7317536781511673273
+      natra_25: 4048976802973461546
+      natra_26: 1739808687741992439
+      natra_27: 680431835664351734
+      natra_28: -1795572404004810643
+      natra_29: -3539508443407699487
+      natra_3: -1818879683328788182
+      natra_30: 4496905897232303640
+      natra_31: -7996930850478101128
+      natra_32: -2304840152242174737
+      natra_33: 4842610323271076288
+      natra_4: 3344956765978370776
+      natra_5: -3782176820206332275
+      natra_6: -1026586105471786953
+      natra_7: 1586390060043849474
+      natra_8: -1862194923829015208
+      natra_9: 8562961936632788103
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3042 @@
+fileFormatVersion: 2
+guid: 113879316c117be499c32924282ea249
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1739394806366290771
+    second: seawave_0
+  - first:
+      213: 702673726617831700
+    second: seawave_1
+  - first:
+      213: 1758452803970090564
+    second: seawave_2
+  - first:
+      213: 8971306528387228655
+    second: seawave_3
+  - first:
+      213: -558629136898477180
+    second: seawave_4
+  - first:
+      213: -205689865789076811
+    second: seawave_5
+  - first:
+      213: -8350926914978406842
+    second: seawave_6
+  - first:
+      213: 2956909025736055395
+    second: seawave_7
+  - first:
+      213: 7580531278404372353
+    second: seawave_8
+  - first:
+      213: 1634826276624354093
+    second: seawave_9
+  - first:
+      213: 9049022743630300132
+    second: seawave_10
+  - first:
+      213: 6504143033333137828
+    second: seawave_11
+  - first:
+      213: -1872791515490305458
+    second: seawave_12
+  - first:
+      213: 5026043202434391345
+    second: seawave_13
+  - first:
+      213: -8363036752075041940
+    second: seawave_14
+  - first:
+      213: 3078000209301069545
+    second: seawave_15
+  - first:
+      213: -2286405961985116438
+    second: seawave_16
+  - first:
+      213: 788855275653627663
+    second: seawave_17
+  - first:
+      213: 2805092632851060218
+    second: seawave_18
+  - first:
+      213: -2661150899332085194
+    second: seawave_19
+  - first:
+      213: -5043503817741998131
+    second: seawave_20
+  - first:
+      213: -4801370001135289403
+    second: seawave_21
+  - first:
+      213: 987991708734094662
+    second: seawave_22
+  - first:
+      213: 4714273550610649260
+    second: seawave_23
+  - first:
+      213: -6235377520599778607
+    second: seawave_24
+  - first:
+      213: 356477588777410660
+    second: seawave_25
+  - first:
+      213: -3572264920820856082
+    second: seawave_26
+  - first:
+      213: -8166754721879306273
+    second: seawave_27
+  - first:
+      213: -5436052604421881059
+    second: seawave_28
+  - first:
+      213: -5924055698231693147
+    second: seawave_29
+  - first:
+      213: 5360407020218381869
+    second: seawave_30
+  - first:
+      213: 8318622813938307178
+    second: seawave_31
+  - first:
+      213: -3383024235756615299
+    second: seawave_32
+  - first:
+      213: -3058892195132379510
+    second: seawave_33
+  - first:
+      213: -8246602142864464857
+    second: seawave_34
+  - first:
+      213: -4526832504629113318
+    second: seawave_35
+  - first:
+      213: -3732749056357738677
+    second: seawave_36
+  - first:
+      213: 6819880601199684185
+    second: seawave_37
+  - first:
+      213: 353344501930588909
+    second: seawave_38
+  - first:
+      213: 3810028083935877812
+    second: seawave_39
+  - first:
+      213: 4085137195862900544
+    second: seawave_40
+  - first:
+      213: -7467774276535233099
+    second: seawave_41
+  - first:
+      213: -2482661199732043286
+    second: seawave_42
+  - first:
+      213: -6169326037639716439
+    second: seawave_43
+  - first:
+      213: -2818958976377002329
+    second: seawave_44
+  - first:
+      213: 8592725429565141756
+    second: seawave_45
+  - first:
+      213: 1093159942950987241
+    second: seawave_46
+  - first:
+      213: -1928036338646009877
+    second: seawave_47
+  - first:
+      213: 6097293145394972177
+    second: seawave_48
+  - first:
+      213: 4797103107747633635
+    second: seawave_49
+  - first:
+      213: -2935265270537353770
+    second: seawave_50
+  - first:
+      213: 7666078138746163136
+    second: seawave_51
+  - first:
+      213: 3313706030281763891
+    second: seawave_52
+  - first:
+      213: -6477836884493446374
+    second: seawave_53
+  - first:
+      213: 8580896305329260026
+    second: seawave_54
+  - first:
+      213: -4200376311728519608
+    second: seawave_55
+  - first:
+      213: -7494245563493533600
+    second: seawave_56
+  - first:
+      213: 2620905375444861645
+    second: seawave_57
+  - first:
+      213: -5192427523370050440
+    second: seawave_58
+  - first:
+      213: 4135459137687202735
+    second: seawave_59
+  - first:
+      213: 5736846699953200524
+    second: seawave_60
+  - first:
+      213: -4332848793736381285
+    second: seawave_61
+  - first:
+      213: 5443704034973319817
+    second: seawave_62
+  - first:
+      213: -5948568190456414971
+    second: seawave_63
+  - first:
+      213: -216013136687527656
+    second: seawave_64
+  - first:
+      213: -3156944406471024290
+    second: seawave_65
+  - first:
+      213: -6724552813110484686
+    second: seawave_66
+  - first:
+      213: -1015099295511357727
+    second: seawave_67
+  - first:
+      213: -287485569490446935
+    second: seawave_68
+  - first:
+      213: -711337694398097494
+    second: seawave_69
+  - first:
+      213: -5472520710858264942
+    second: seawave_70
+  - first:
+      213: -3674329008808348078
+    second: seawave_71
+  - first:
+      213: 136866770709342750
+    second: seawave_72
+  - first:
+      213: -7293949595789834493
+    second: seawave_73
+  - first:
+      213: 6754430957349100927
+    second: seawave_74
+  - first:
+      213: -4758572849478633088
+    second: seawave_75
+  - first:
+      213: -240053093483645656
+    second: seawave_76
+  - first:
+      213: 7406181288754171036
+    second: seawave_77
+  - first:
+      213: 480167168349255878
+    second: seawave_78
+  - first:
+      213: -4790979571155681663
+    second: seawave_79
+  - first:
+      213: 7933974865077903739
+    second: seawave_80
+  - first:
+      213: -2733396901298721308
+    second: seawave_81
+  - first:
+      213: 985736105052546010
+    second: seawave_82
+  - first:
+      213: -8850540445691446878
+    second: seawave_83
+  - first:
+      213: -292501502743318833
+    second: seawave_84
+  - first:
+      213: 5895355992530465056
+    second: seawave_85
+  - first:
+      213: -1751232660701366744
+    second: seawave_86
+  - first:
+      213: -5555654102331727615
+    second: seawave_87
+  - first:
+      213: 2964210757759950879
+    second: seawave_88
+  - first:
+      213: -5743392942609119172
+    second: seawave_89
+  - first:
+      213: -2799846292585636585
+    second: seawave_90
+  - first:
+      213: -6312520257847467702
+    second: seawave_91
+  - first:
+      213: -4690699184163960720
+    second: seawave_92
+  - first:
+      213: 6634051349719035635
+    second: seawave_93
+  - first:
+      213: -4633793279914814051
+    second: seawave_94
+  - first:
+      213: 7542028411568253856
+    second: seawave_95
+  - first:
+      213: -457461385556758284
+    second: seawave_96
+  - first:
+      213: 6418657833296685076
+    second: seawave_97
+  - first:
+      213: 7352088885595211935
+    second: seawave_98
+  - first:
+      213: 597766832665792993
+    second: seawave_99
+  - first:
+      213: -481551836014337642
+    second: seawave_100
+  - first:
+      213: 6883083141259684409
+    second: seawave_101
+  - first:
+      213: 3390048380006993113
+    second: seawave_102
+  - first:
+      213: 5922345122301994495
+    second: seawave_103
+  - first:
+      213: -1141014278404291997
+    second: seawave_104
+  - first:
+      213: 155705143299823137
+    second: seawave_105
+  - first:
+      213: -6186589662796240696
+    second: seawave_106
+  - first:
+      213: -2716599493287290714
+    second: seawave_107
+  - first:
+      213: 6710539131504640662
+    second: seawave_108
+  - first:
+      213: 6380434407028404989
+    second: seawave_109
+  - first:
+      213: -3513459937561430881
+    second: seawave_110
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: seawave_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 318
+        height: 901
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3534f955c52932810800000000000000
+      internalID: 1739394806366290771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 986
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4194e0c080660c900800000000000000
+      internalID: 702673726617831700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_2
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 123
+        width: 312
+        height: 901
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4464dee2287476810800000000000000
+      internalID: 1758452803970090564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_3
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 123
+        width: 362
+        height: 901
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3e9ab61cb708c70800000000000000
+      internalID: 8971306528387228655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_4
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 986
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483bbfd72c95f38f0800000000000000
+      internalID: -558629136898477180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_5
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 123
+        width: 291
+        height: 901
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba8eb7282e352df0800000000000000
+      internalID: -205689865789076811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_6
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 964
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e9677473c8b1c80800000000000000
+      internalID: -8350926914978406842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_7
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 919
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ad420b71d090920800000000000000
+      internalID: 2956909025736055395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 920
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187c70ac805733960800000000000000
+      internalID: 7580531278404372353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_9
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 872
+        width: 47
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b4baf36d110b610800000000000000
+      internalID: 1634826276624354093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_10
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 921
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3c386dd36949d70800000000000000
+      internalID: 9049022743630300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_11
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 923
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1472ed0ab534a50800000000000000
+      internalID: 6504143033333137828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_12
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 863
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ab5d40a028206e0800000000000000
+      internalID: -1872791515490305458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_13
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 951
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d5edad9a710c540800000000000000
+      internalID: 5026043202434391345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_14
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 915
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63d70d126680fb80800000000000000
+      internalID: -8363036752075041940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_15
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 887
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eed7f5e1e047ba20800000000000000
+      internalID: 3078000209301069545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_16
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 788
+        width: 82
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6ba8734ed0540e0800000000000000
+      internalID: -2286405961985116438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_17
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 827
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ff68491b392fa00800000000000000
+      internalID: 788855275653627663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_18
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 776
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5172733e0bde620800000000000000
+      internalID: 2805092632851060218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_19
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 791
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a899f3b51b11bd0800000000000000
+      internalID: -2661150899332085194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_20
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 831
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc76928dfffd10ab0800000000000000
+      internalID: -5043503817741998131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_21
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 769
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb3d173c6b1e5db0800000000000000
+      internalID: -4801370001135289403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_22
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 819
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d7028793d06bd00800000000000000
+      internalID: 987991708734094662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_23
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 786
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0da2621d67c6140800000000000000
+      internalID: 4714273550610649260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_24
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 825
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dab1347e2d7779a0800000000000000
+      internalID: -6235377520599778607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_25
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 788
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46027717a7672f400800000000000000
+      internalID: 356477588777410660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_26
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 816
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea42ee2bf3cc6ec0800000000000000
+      internalID: -3572264920820856082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_27
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 711
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfc3aa89dbd9ae80800000000000000
+      internalID: -8166754721879306273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_28
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 747
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13c81d25f24f84b0800000000000000
+      internalID: -5436052604421881059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_29
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 738
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0754dbab689cda0800000000000000
+      internalID: -5924055698231693147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_30
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 749
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2670a3c8cdf36a40800000000000000
+      internalID: 5360407020218381869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_31
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 751
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60d045106fa17370800000000000000
+      internalID: 8318622813938307178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_32
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 777
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d798031b1651d01d0800000000000000
+      internalID: -3383024235756615299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_33
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 762
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e6be651c1ac85d0800000000000000
+      internalID: -3058892195132379510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_34
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 776
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724a69e1b0f2e8d80800000000000000
+      internalID: -8246602142864464857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_35
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 715
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ec3eb32d57d21c0800000000000000
+      internalID: -4526832504629113318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_36
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 672
+        width: 59
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b475f1c928c923cc0800000000000000
+      internalID: -3732749056357738677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_37
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 703
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95aa515064515ae50800000000000000
+      internalID: 6819880601199684185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_38
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 710
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deaf8e0d3f457e400800000000000000
+      internalID: 353344501930588909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_39
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 721
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba924f1b50ffd430800000000000000
+      internalID: 3810028083935877812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_40
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 710
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fb42ab2a251b830800000000000000
+      internalID: 4085137195862900544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 664
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b551588cd22d5890800000000000000
+      internalID: -7467774276535233099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_42
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 689
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae19354eac0db8dd0800000000000000
+      internalID: -2482661199732043286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_43
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 662
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1aaeeb7a6226aa0800000000000000
+      internalID: -6169326037639716439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_44
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 662
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a666a81fbb01e8d0800000000000000
+      internalID: -2818958976377002329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_45
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 659
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf232b1804e7f3770800000000000000
+      internalID: 8592725429565141756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_46
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 692
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5a7422d2fab2f00800000000000000
+      internalID: 1093159942950987241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_47
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 695
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7b5f84a2d3e35e0800000000000000
+      internalID: -1928036338646009877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_48
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 654
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11601b69fcfed9450800000000000000
+      internalID: 6097293145394972177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 614
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e958304cdbb29240800000000000000
+      internalID: 4797103107747633635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_50
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 600
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d58414c9c7d347d0800000000000000
+      internalID: -2935265270537353770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_51
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 615
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf4a585371636a60800000000000000
+      internalID: 7666078138746163136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_52
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 603
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ca309e316acfd20800000000000000
+      internalID: 3313706030281763891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_53
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 680
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1358d2bca91a16a0800000000000000
+      internalID: -6477836884493446374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_54
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 631
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5cc95e9b7751770800000000000000
+      internalID: 8580896305329260026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_55
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 628
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846c470cff345b5c0800000000000000
+      internalID: -4200376311728519608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_56
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 622
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068bb60cd571ff790800000000000000
+      internalID: -7494245563493533600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_57
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 631
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc28d458d835f5420800000000000000
+      internalID: 2620905375444861645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_58
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 506
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c119b9daac0f7b0800000000000000
+      internalID: -5192427523370050440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_59
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 553
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab2df4dc2a146930800000000000000
+      internalID: 4135459137687202735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_60
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 517
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d1591bdaf5d9f40800000000000000
+      internalID: 5736846699953200524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_61
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 552
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cfcdf7af0aed3c0800000000000000
+      internalID: -4332848793736381285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_62
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 518
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98202f25afbeb8b40800000000000000
+      internalID: 5443704034973319817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_63
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 532
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d38a56fb0727da0800000000000000
+      internalID: -5948568190456414971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_64
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 509
+        width: 49
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8190ce85231900df0800000000000000
+      internalID: -216013136687527656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_65
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 484
+        width: 110
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5163acd9c74034d0800000000000000
+      internalID: -3156944406471024290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_66
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 469
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231223d38d69da2a0800000000000000
+      internalID: -6724552813110484686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_67
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 475
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6db47a194a9e1f0800000000000000
+      internalID: -1015099295511357727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_68
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 502
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a59870d565a20cf0800000000000000
+      internalID: -287485569490446935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_69
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 481
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa75e02c222d026f0800000000000000
+      internalID: -711337694398097494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_70
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 478
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e235b7863bd04b0800000000000000
+      internalID: -5472520710858264942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_71
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 370
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256b012eb39220dc0800000000000000
+      internalID: -3674329008808348078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_72
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 437
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a6fa15a9f36e100800000000000000
+      internalID: 136866770709342750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_73
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 439
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307c755dc7fa6ca90800000000000000
+      internalID: -7293949595789834493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_74
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 426
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dd1b05b2f8cbd50800000000000000
+      internalID: 6754430957349100927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_75
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 464
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089f105943726fdb0800000000000000
+      internalID: -4758572849478633088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_76
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 376
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8257cabbbf82bacf0800000000000000
+      internalID: -240053093483645656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_77
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 340
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c465a74aa08c660800000000000000
+      internalID: 7406181288754171036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_78
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 373
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8334ede75e9a600800000000000000
+      internalID: 480167168349255878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_79
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 364
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ebc17b675038db0800000000000000
+      internalID: -4790979571155681663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_80
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 341
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71a8d19a142b1e60800000000000000
+      internalID: 7933974865077903739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_81
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 371
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edafeb1006011ad0800000000000000
+      internalID: -2733396901298721308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_82
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 364
+        width: 81
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad32fefc3c90ead00800000000000000
+      internalID: 985736105052546010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_83
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 331
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a975585b509c2580800000000000000
+      internalID: -8850540445691446878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_84
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 270
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce67b8de63d0fbf0800000000000000
+      internalID: -292501502743318833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_85
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 335
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021bf3f4a0380d150800000000000000
+      internalID: 5895355992530465056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_86
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 271
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82635db6c2f52b7e0800000000000000
+      internalID: -1751232660701366744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_87
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 317
+        width: 72
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101639f670a56e2b0800000000000000
+      internalID: -5555654102331727615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_88
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 333
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f106ca7aafdf22920800000000000000
+      internalID: 2964210757759950879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_89
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 305
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c384c4a6c8e5b40b0800000000000000
+      internalID: -5743392942609119172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_90
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 336
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d1db091a2f429d0800000000000000
+      internalID: -2799846292585636585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_91
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 303
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a416b89454c6568a0800000000000000
+      internalID: -6312520257847467702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_92
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 332
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07841b3c1f947eeb0800000000000000
+      internalID: -4690699184163960720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_93
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 310
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe24b9cd82e01c50800000000000000
+      internalID: 6634051349719035635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_94
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 250
+        width: 96
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95d514109571bfb0800000000000000
+      internalID: -4633793279914814051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_95
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 270
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abed6581eaaaa860800000000000000
+      internalID: 7542028411568253856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_96
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 259
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f07e672b45c6a9f0800000000000000
+      internalID: -457461385556758284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_97
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 274
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4186d68ba47a31950800000000000000
+      internalID: 6418657833296685076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_98
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 273
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98000f63edd70660800000000000000
+      internalID: 7352088885595211935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_99
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 265
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e11e8764c1bb4800800000000000000
+      internalID: 597766832665792993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_100
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 269
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691ad61182f2159f0800000000000000
+      internalID: -481551836014337642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_101
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 268
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a634a16af958f50800000000000000
+      internalID: 6883083141259684409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_102
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 245
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc84b55a0fdb0f20800000000000000
+      internalID: 3390048380006993113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_103
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 265
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5e314c285603250800000000000000
+      internalID: 5922345122301994495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_104
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 281
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36240142f8d4a20f0800000000000000
+      internalID: -1141014278404291997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_105
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 217
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126561cb00d292200800000000000000
+      internalID: 155705143299823137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_106
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 222
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c82de9ca71d42aa0800000000000000
+      internalID: -6186589662796240696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_107
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 216
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8da9d6723bc4ad0800000000000000
+      internalID: -2716599493287290714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_108
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 223
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69241b049cf902d50800000000000000
+      internalID: 6710539131504640662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_109
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 215
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2bb97c94bdb8850800000000000000
+      internalID: 6380434407028404989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seawave_110
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 135
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94b5194dcead3fc0800000000000000
+      internalID: -3513459937561430881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      seawave_0: 1739394806366290771
+      seawave_1: 702673726617831700
+      seawave_10: 9049022743630300132
+      seawave_100: -481551836014337642
+      seawave_101: 6883083141259684409
+      seawave_102: 3390048380006993113
+      seawave_103: 5922345122301994495
+      seawave_104: -1141014278404291997
+      seawave_105: 155705143299823137
+      seawave_106: -6186589662796240696
+      seawave_107: -2716599493287290714
+      seawave_108: 6710539131504640662
+      seawave_109: 6380434407028404989
+      seawave_11: 6504143033333137828
+      seawave_110: -3513459937561430881
+      seawave_12: -1872791515490305458
+      seawave_13: 5026043202434391345
+      seawave_14: -8363036752075041940
+      seawave_15: 3078000209301069545
+      seawave_16: -2286405961985116438
+      seawave_17: 788855275653627663
+      seawave_18: 2805092632851060218
+      seawave_19: -2661150899332085194
+      seawave_2: 1758452803970090564
+      seawave_20: -5043503817741998131
+      seawave_21: -4801370001135289403
+      seawave_22: 987991708734094662
+      seawave_23: 4714273550610649260
+      seawave_24: -6235377520599778607
+      seawave_25: 356477588777410660
+      seawave_26: -3572264920820856082
+      seawave_27: -8166754721879306273
+      seawave_28: -5436052604421881059
+      seawave_29: -5924055698231693147
+      seawave_3: 8971306528387228655
+      seawave_30: 5360407020218381869
+      seawave_31: 8318622813938307178
+      seawave_32: -3383024235756615299
+      seawave_33: -3058892195132379510
+      seawave_34: -8246602142864464857
+      seawave_35: -4526832504629113318
+      seawave_36: -3732749056357738677
+      seawave_37: 6819880601199684185
+      seawave_38: 353344501930588909
+      seawave_39: 3810028083935877812
+      seawave_4: -558629136898477180
+      seawave_40: 4085137195862900544
+      seawave_41: -7467774276535233099
+      seawave_42: -2482661199732043286
+      seawave_43: -6169326037639716439
+      seawave_44: -2818958976377002329
+      seawave_45: 8592725429565141756
+      seawave_46: 1093159942950987241
+      seawave_47: -1928036338646009877
+      seawave_48: 6097293145394972177
+      seawave_49: 4797103107747633635
+      seawave_5: -205689865789076811
+      seawave_50: -2935265270537353770
+      seawave_51: 7666078138746163136
+      seawave_52: 3313706030281763891
+      seawave_53: -6477836884493446374
+      seawave_54: 8580896305329260026
+      seawave_55: -4200376311728519608
+      seawave_56: -7494245563493533600
+      seawave_57: 2620905375444861645
+      seawave_58: -5192427523370050440
+      seawave_59: 4135459137687202735
+      seawave_6: -8350926914978406842
+      seawave_60: 5736846699953200524
+      seawave_61: -4332848793736381285
+      seawave_62: 5443704034973319817
+      seawave_63: -5948568190456414971
+      seawave_64: -216013136687527656
+      seawave_65: -3156944406471024290
+      seawave_66: -6724552813110484686
+      seawave_67: -1015099295511357727
+      seawave_68: -287485569490446935
+      seawave_69: -711337694398097494
+      seawave_7: 2956909025736055395
+      seawave_70: -5472520710858264942
+      seawave_71: -3674329008808348078
+      seawave_72: 136866770709342750
+      seawave_73: -7293949595789834493
+      seawave_74: 6754430957349100927
+      seawave_75: -4758572849478633088
+      seawave_76: -240053093483645656
+      seawave_77: 7406181288754171036
+      seawave_78: 480167168349255878
+      seawave_79: -4790979571155681663
+      seawave_8: 7580531278404372353
+      seawave_80: 7933974865077903739
+      seawave_81: -2733396901298721308
+      seawave_82: 985736105052546010
+      seawave_83: -8850540445691446878
+      seawave_84: -292501502743318833
+      seawave_85: 5895355992530465056
+      seawave_86: -1751232660701366744
+      seawave_87: -5555654102331727615
+      seawave_88: 2964210757759950879
+      seawave_89: -5743392942609119172
+      seawave_9: 1634826276624354093
+      seawave_90: -2799846292585636585
+      seawave_91: -6312520257847467702
+      seawave_92: -4690699184163960720
+      seawave_93: 6634051349719035635
+      seawave_94: -4633793279914814051
+      seawave_95: 7542028411568253856
+      seawave_96: -457461385556758284
+      seawave_97: 6418657833296685076
+      seawave_98: 7352088885595211935
+      seawave_99: 597766832665792993
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: b2f2b25ecaf2ffe4b8bf3ba5593ac283
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8017577007495753168
+    second: AtlasIFishSkill_6_0
+  - first:
+      213: -3330239126432877230
+    second: AtlasIFishSkill_6_1
+  - first:
+      213: -2496413207166823133
+    second: AtlasIFishSkill_6_2
+  - first:
+      213: 6384295988456746878
+    second: AtlasIFishSkill_6_3
+  - first:
+      213: -3367779006382455308
+    second: AtlasIFishSkill_6_4
+  - first:
+      213: -8380880784024414587
+    second: AtlasIFishSkill_6_5
+  - first:
+      213: 3818599645032062528
+    second: AtlasIFishSkill_6_6
+  - first:
+      213: -5274170830412574045
+    second: AtlasIFishSkill_6_7
+  - first:
+      213: 7143565038221940038
+    second: AtlasIFishSkill_6_8
+  - first:
+      213: -342885918215642622
+    second: AtlasIFishSkill_6_9
+  - first:
+      213: -2064558786277584658
+    second: AtlasIFishSkill_6_10
+  - first:
+      213: -2332944630099363735
+    second: AtlasIFishSkill_6_11
+  - first:
+      213: 586228033937512368
+    second: AtlasIFishSkill_6_12
+  - first:
+      213: 4505992230887768230
+    second: AtlasIFishSkill_6_13
+  - first:
+      213: 2935731857478908391
+    second: AtlasIFishSkill_6_14
+  - first:
+      213: -8052874740269488714
+    second: AtlasIFishSkill_6_15
+  - first:
+      213: -4803850574915887519
+    second: AtlasIFishSkill_6_16
+  - first:
+      213: -8767365636935963689
+    second: AtlasIFishSkill_6_17
+  - first:
+      213: 8867519929344345237
+    second: AtlasIFishSkill_6_18
+  - first:
+      213: -3239054033493485857
+    second: AtlasIFishSkill_6_19
+  - first:
+      213: -7699571878002202868
+    second: AtlasIFishSkill_6_20
+  - first:
+      213: -7346900872232970425
+    second: AtlasIFishSkill_6_21
+  - first:
+      213: -6367326565340424610
+    second: AtlasIFishSkill_6_22
+  - first:
+      213: 3567580914908968973
+    second: AtlasIFishSkill_6_23
+  - first:
+      213: -6451292905934755681
+    second: AtlasIFishSkill_6_24
+  - first:
+      213: 8944244626996246637
+    second: AtlasIFishSkill_6_25
+  - first:
+      213: -7041511422769574640
+    second: AtlasIFishSkill_6_26
+  - first:
+      213: -2357524759704488924
+    second: AtlasIFishSkill_6_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 273
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddaf133fc7244f60800000000000000
+      internalID: 8017577007495753168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 276
+        width: 199
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2557cdba82d98c1d0800000000000000
+      internalID: -3330239126432877230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_2
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 337
+        width: 130
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3255a362a65fa5dd0800000000000000
+      internalID: -2496413207166823133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_3
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 339
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f6ae44063999850800000000000000
+      internalID: 6384295988456746878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_4
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 349
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f54e8246de3341d0800000000000000
+      internalID: -3367779006382455308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_5
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 353
+        width: 131
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586d35ba45121bb80800000000000000
+      internalID: -8380880784024414587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_6
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 397
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e919535246ef430800000000000000
+      internalID: 3818599645032062528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_7
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 199
+        width: 128
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a21880d2916ec6b0800000000000000
+      internalID: -5274170830412574045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_8
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 213
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6455e15dd8a032360800000000000000
+      internalID: 7143565038221940038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_9
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 227
+        width: 137
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202e546f213dd3bf0800000000000000
+      internalID: -342885918215642622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_10
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 225
+        width: 139
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0530ee8b63953e0800000000000000
+      internalID: -2064558786277584658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_11
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 319
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968b54a2837bf9fd0800000000000000
+      internalID: -2332944630099363735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 74
+        width: 202
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b798387a43b22800800000000000000
+      internalID: 586228033937512368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 184
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a04cba6f00888e30800000000000000
+      internalID: 4505992230887768230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_14
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 134
+        width: 92
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9f3d8f190ddb820800000000000000
+      internalID: 2935731857478908391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_15
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 136
+        width: 110
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b56585f6117e3090800000000000000
+      internalID: -8052874740269488714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_16
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 71
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e1510aa5b455db0800000000000000
+      internalID: -4803850574915887519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_17
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 87
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db277a976f045680800000000000000
+      internalID: -8767365636935963689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_18
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 107
+        width: 128
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5944443c462cf0b70800000000000000
+      internalID: 8867519929344345237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_19
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 107
+        width: 134
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6135d84819c03d0800000000000000
+      internalID: -3239054033493485857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c076719cb20a52590800000000000000
+      internalID: -7699571878002202868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 6
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747db8e05909a0a90800000000000000
+      internalID: -7346900872232970425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56d9ff6936b2a7a0800000000000000
+      internalID: -6367326565340424610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_23
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 6
+        width: 119
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08bc94b0f7928130800000000000000
+      internalID: 3567580914908968973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_24
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1
+        width: 140
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98e2cf48476876a0800000000000000
+      internalID: -6451292905934755681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_25
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 9
+        width: 133
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68be408917502c70800000000000000
+      internalID: 8944244626996246637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_26
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 15
+        width: 136
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dc6f32ba6874e90800000000000000
+      internalID: -7041511422769574640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasIFishSkill_6_27
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 13
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42430a4c8b3684fd0800000000000000
+      internalID: -2357524759704488924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AtlasIFishSkill_6_0: 8017577007495753168
+      AtlasIFishSkill_6_1: -3330239126432877230
+      AtlasIFishSkill_6_10: -2064558786277584658
+      AtlasIFishSkill_6_11: -2332944630099363735
+      AtlasIFishSkill_6_12: 586228033937512368
+      AtlasIFishSkill_6_13: 4505992230887768230
+      AtlasIFishSkill_6_14: 2935731857478908391
+      AtlasIFishSkill_6_15: -8052874740269488714
+      AtlasIFishSkill_6_16: -4803850574915887519
+      AtlasIFishSkill_6_17: -8767365636935963689
+      AtlasIFishSkill_6_18: 8867519929344345237
+      AtlasIFishSkill_6_19: -3239054033493485857
+      AtlasIFishSkill_6_2: -2496413207166823133
+      AtlasIFishSkill_6_20: -7699571878002202868
+      AtlasIFishSkill_6_21: -7346900872232970425
+      AtlasIFishSkill_6_22: -6367326565340424610
+      AtlasIFishSkill_6_23: 3567580914908968973
+      AtlasIFishSkill_6_24: -6451292905934755681
+      AtlasIFishSkill_6_25: 8944244626996246637
+      AtlasIFishSkill_6_26: -7041511422769574640
+      AtlasIFishSkill_6_27: -2357524759704488924
+      AtlasIFishSkill_6_3: 6384295988456746878
+      AtlasIFishSkill_6_4: -3367779006382455308
+      AtlasIFishSkill_6_5: -8380880784024414587
+      AtlasIFishSkill_6_6: 3818599645032062528
+      AtlasIFishSkill_6_7: -5274170830412574045
+      AtlasIFishSkill_6_8: 7143565038221940038
+      AtlasIFishSkill_6_9: -342885918215642622
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

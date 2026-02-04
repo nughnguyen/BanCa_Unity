@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: 9b31dffa07607c148ad59c2070528fa8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9204253726151739835
+    second: lock_fish_0
+  - first:
+      213: 5983835740235524805
+    second: lock_fish_1
+  - first:
+      213: 2245165294997031921
+    second: lock_fish_2
+  - first:
+      213: -8093009128441445365
+    second: lock_fish_3
+  - first:
+      213: 3999627103336328220
+    second: lock_fish_4
+  - first:
+      213: -4310037512567284401
+    second: lock_fish_5
+  - first:
+      213: 1870884093244201683
+    second: lock_fish_6
+  - first:
+      213: -5562430946706031102
+    second: lock_fish_7
+  - first:
+      213: 2835117986258226468
+    second: lock_fish_8
+  - first:
+      213: -6647514426462059259
+    second: lock_fish_9
+  - first:
+      213: 6379884205221036673
+    second: lock_fish_10
+  - first:
+      213: 4108061959707718391
+    second: lock_fish_11
+  - first:
+      213: 2065533371457748041
+    second: lock_fish_12
+  - first:
+      213: -6923999117495840803
+    second: lock_fish_13
+  - first:
+      213: -6521394311133245957
+    second: lock_fish_14
+  - first:
+      213: -84284193863366839
+    second: lock_fish_15
+  - first:
+      213: -1339821252920689118
+    second: lock_fish_16
+  - first:
+      213: -1854244570276135287
+    second: lock_fish_17
+  - first:
+      213: -2167161460659017632
+    second: lock_fish_18
+  - first:
+      213: -6575995984801222582
+    second: lock_fish_19
+  - first:
+      213: -7072292438306249048
+    second: lock_fish_20
+  - first:
+      213: 8563487374701425025
+    second: lock_fish_21
+  - first:
+      213: 167721785122800972
+    second: lock_fish_22
+  - first:
+      213: -4904640224751519487
+    second: lock_fish_23
+  - first:
+      213: 1286811838855348607
+    second: lock_fish_24
+  - first:
+      213: -2073197620461226604
+    second: lock_fish_25
+  - first:
+      213: -1778579261355682046
+    second: lock_fish_26
+  - first:
+      213: -955861132231938787
+    second: lock_fish_27
+  - first:
+      213: -6294400793682478185
+    second: lock_fish_28
+  - first:
+      213: 4505954386200751156
+    second: lock_fish_29
+  - first:
+      213: 2467268334144292012
+    second: lock_fish_30
+  - first:
+      213: 4982576961717047059
+    second: lock_fish_31
+  - first:
+      213: 2448882702584733625
+    second: lock_fish_32
+  - first:
+      213: 6222720726492423145
+    second: lock_fish_33
+  - first:
+      213: 2665620759447928399
+    second: lock_fish_34
+  - first:
+      213: -7804733869277940851
+    second: lock_fish_35
+  - first:
+      213: 1898888633605270382
+    second: lock_fish_36
+  - first:
+      213: 3392454195928621623
+    second: lock_fish_37
+  - first:
+      213: 2328363115098550152
+    second: lock_fish_38
+  - first:
+      213: -7622707675884773010
+    second: lock_fish_39
+  - first:
+      213: -4309504646505540274
+    second: lock_fish_40
+  - first:
+      213: -6789633154618703108
+    second: lock_fish_41
+  - first:
+      213: -8576132410449817854
+    second: lock_fish_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lock_fish_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546f826900ce34080800000000000000
+      internalID: -9204253726151739835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 439
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca660be6eada0350800000000000000
+      internalID: 5983835740235524805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 439
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb455eb0fd682f10800000000000000
+      internalID: 2245165294997031921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 439
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b040147831bdfaf80800000000000000
+      internalID: -8093009128441445365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 440
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ce268d8a7818730800000000000000
+      internalID: 3999627103336328220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 442
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d91d6c7bbaf24c0800000000000000
+      internalID: -4310037512567284401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_6
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 370
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dadfb1ab27b6f910800000000000000
+      internalID: 1870884093244201683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e72f566864ec2b0800000000000000
+      internalID: -5562430946706031102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 366
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d0e3399cc585720800000000000000
+      internalID: 2835117986258226468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 366
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505c17369d84fb3a0800000000000000
+      internalID: -6647514426462059259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 366
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1824350f1e6e98850800000000000000
+      internalID: 6379884205221036673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_11
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 368
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f27caf3694c20930800000000000000
+      internalID: 4108061959707718391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 296
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c347d58af3aac10800000000000000
+      internalID: 2065533371457748041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_13
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 298
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfca80dc7309ef90800000000000000
+      internalID: -6923999117495840803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd46a40d6a5f75a0800000000000000
+      internalID: -6521394311133245957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9470894e8ff84def0800000000000000
+      internalID: -84284193863366839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 293
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eb42d4baff76de0800000000000000
+      internalID: -1339821252920689118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 220
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e7ef533666446e0800000000000000
+      internalID: -1854244570276135287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_18
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 293
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068a0863222bce1e0800000000000000
+      internalID: -2167161460659017632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 220
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4037813e7e5db4a0800000000000000
+      internalID: -6575995984801222582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 294
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6231b7f7b2add90800000000000000
+      internalID: -7072292438306249048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 222
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181fe9f556e97d670800000000000000
+      internalID: 8563487374701425025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_22
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 294
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45c65f231ed35200800000000000000
+      internalID: 167721785122800972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_23
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 224
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109f79493b73febb0800000000000000
+      internalID: -4904640224751519487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_24
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 224
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f718db3bc8cabd110800000000000000
+      internalID: 1286811838855348607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495393b9fb58a33e0800000000000000
+      internalID: -2073197620461226604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_26
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 147
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207940ac5973157e0800000000000000
+      internalID: -1778579261355682046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_27
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 147
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d66b65d591cb2f0800000000000000
+      internalID: -955861132231938787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_28
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 150
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b7e9ac3dbc5a8a0800000000000000
+      internalID: -6294400793682478185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_29
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 152
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ceb9304ad588e30800000000000000
+      internalID: 4505954386200751156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_30
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 154
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca48d3e4a7f7d3220800000000000000
+      internalID: 2467268334144292012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_31
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 82
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f803d095ba52540800000000000000
+      internalID: 4982576961717047059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf5920e7dd2cf120800000000000000
+      internalID: 2448882702584733625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_33
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 74
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3aa07088b8b5650800000000000000
+      internalID: 6222720726492423145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_34
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 74
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4efcc825ff2ef420800000000000000
+      internalID: 2665620759447928399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_35
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 78
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d837a3ba5e300b390800000000000000
+      internalID: -7804733869277940851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_36
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 80
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ba11ac6253a5a10800000000000000
+      internalID: 1898888633605270382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_37
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 8
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732eb110e1b641f20800000000000000
+      internalID: 3392454195928621623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_38
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 10
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f229fbae1005020800000000000000
+      internalID: 2328363115098550152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61ae3071c3b63690800000000000000
+      internalID: -7622707675884773010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_40
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4554235b509134c0800000000000000
+      internalID: -4309504646505540274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_41
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2ccbf6e9066c1a0800000000000000
+      internalID: -6789633154618703108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lock_fish_42
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 6
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f8c60d2057bf880800000000000000
+      internalID: -8576132410449817854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lock_fish_0: -9204253726151739835
+      lock_fish_1: 5983835740235524805
+      lock_fish_10: 6379884205221036673
+      lock_fish_11: 4108061959707718391
+      lock_fish_12: 2065533371457748041
+      lock_fish_13: -6923999117495840803
+      lock_fish_14: -6521394311133245957
+      lock_fish_15: -84284193863366839
+      lock_fish_16: -1339821252920689118
+      lock_fish_17: -1854244570276135287
+      lock_fish_18: -2167161460659017632
+      lock_fish_19: -6575995984801222582
+      lock_fish_2: 2245165294997031921
+      lock_fish_20: -7072292438306249048
+      lock_fish_21: 8563487374701425025
+      lock_fish_22: 167721785122800972
+      lock_fish_23: -4904640224751519487
+      lock_fish_24: 1286811838855348607
+      lock_fish_25: -2073197620461226604
+      lock_fish_26: -1778579261355682046
+      lock_fish_27: -955861132231938787
+      lock_fish_28: -6294400793682478185
+      lock_fish_29: 4505954386200751156
+      lock_fish_3: -8093009128441445365
+      lock_fish_30: 2467268334144292012
+      lock_fish_31: 4982576961717047059
+      lock_fish_32: 2448882702584733625
+      lock_fish_33: 6222720726492423145
+      lock_fish_34: 2665620759447928399
+      lock_fish_35: -7804733869277940851
+      lock_fish_36: 1898888633605270382
+      lock_fish_37: 3392454195928621623
+      lock_fish_38: 2328363115098550152
+      lock_fish_39: -7622707675884773010
+      lock_fish_4: 3999627103336328220
+      lock_fish_40: -4309504646505540274
+      lock_fish_41: -6789633154618703108
+      lock_fish_42: -8576132410449817854
+      lock_fish_5: -4310037512567284401
+      lock_fish_6: 1870884093244201683
+      lock_fish_7: -5562430946706031102
+      lock_fish_8: 2835117986258226468
+      lock_fish_9: -6647514426462059259
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

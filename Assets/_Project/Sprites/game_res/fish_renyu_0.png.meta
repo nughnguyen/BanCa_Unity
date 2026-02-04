@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: 330b5771d51534343a0be5a5a06328cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4055899945266057521
+    second: fish_renyu_0_0
+  - first:
+      213: 8499340058661303620
+    second: fish_renyu_0_1
+  - first:
+      213: -1716903586840570947
+    second: fish_renyu_0_2
+  - first:
+      213: 4411491695589170204
+    second: fish_renyu_0_3
+  - first:
+      213: 274796977385163440
+    second: fish_renyu_0_4
+  - first:
+      213: -3303391870483111333
+    second: fish_renyu_0_5
+  - first:
+      213: -2841861187826006626
+    second: fish_renyu_0_6
+  - first:
+      213: 1247168888790272204
+    second: fish_renyu_0_7
+  - first:
+      213: -7897648908061676959
+    second: fish_renyu_0_8
+  - first:
+      213: -4411623924505797811
+    second: fish_renyu_0_9
+  - first:
+      213: -8962119417995144604
+    second: fish_renyu_0_10
+  - first:
+      213: -3987377625121200648
+    second: fish_renyu_0_11
+  - first:
+      213: 958518327578316273
+    second: fish_renyu_0_12
+  - first:
+      213: 3537386001977325358
+    second: fish_renyu_0_13
+  - first:
+      213: 6351021208727564599
+    second: fish_renyu_0_14
+  - first:
+      213: -7369710098991746476
+    second: fish_renyu_0_15
+  - first:
+      213: -2351216485092023687
+    second: fish_renyu_0_16
+  - first:
+      213: 8922079758647202413
+    second: fish_renyu_0_17
+  - first:
+      213: 2413660403379793038
+    second: fish_renyu_0_18
+  - first:
+      213: -5760570932201210495
+    second: fish_renyu_0_19
+  - first:
+      213: 5379714063310920270
+    second: fish_renyu_0_20
+  - first:
+      213: 2848170224630604693
+    second: fish_renyu_0_21
+  - first:
+      213: 6798826671791017438
+    second: fish_renyu_0_22
+  - first:
+      213: 3358058368541993205
+    second: fish_renyu_0_23
+  - first:
+      213: -6989254796554019347
+    second: fish_renyu_0_24
+  - first:
+      213: -3366955069525619793
+    second: fish_renyu_0_25
+  - first:
+      213: -824094550482372121
+    second: fish_renyu_0_26
+  - first:
+      213: -5039593937549063101
+    second: fish_renyu_0_27
+  - first:
+      213: 2518905533524955801
+    second: fish_renyu_0_28
+  - first:
+      213: 6108200394638218201
+    second: fish_renyu_0_29
+  - first:
+      213: 1187377675470099125
+    second: fish_renyu_0_30
+  - first:
+      213: -6468921851455587457
+    second: fish_renyu_0_31
+  - first:
+      213: -1080028184187687950
+    second: fish_renyu_0_32
+  - first:
+      213: 2800362929016684139
+    second: fish_renyu_0_33
+  - first:
+      213: -5741810035156235283
+    second: fish_renyu_0_34
+  - first:
+      213: -103585081813367919
+    second: fish_renyu_0_35
+  - first:
+      213: -648074500336136757
+    second: fish_renyu_0_36
+  - first:
+      213: 2253179291301959502
+    second: fish_renyu_0_37
+  - first:
+      213: 4277721444201182008
+    second: fish_renyu_0_38
+  - first:
+      213: 2396158327802757770
+    second: fish_renyu_0_39
+  - first:
+      213: 3694968584011930567
+    second: fish_renyu_0_40
+  - first:
+      213: 300487617722129352
+    second: fish_renyu_0_41
+  - first:
+      213: -5353603648097698567
+    second: fish_renyu_0_42
+  - first:
+      213: -8007111197452372727
+    second: fish_renyu_0_43
+  - first:
+      213: 4480004226147846968
+    second: fish_renyu_0_44
+  - first:
+      213: -8604956736337189612
+    second: fish_renyu_0_45
+  - first:
+      213: -4750710036084030093
+    second: fish_renyu_0_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fish_renyu_0_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1549
+        width: 164
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcee3e52d7c86b7c0800000000000000
+      internalID: -4055899945266057521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1558
+        width: 152
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44531cd70c8b3f570800000000000000
+      internalID: 8499340058661303620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1560
+        width: 151
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db316c8c8455c28e0800000000000000
+      internalID: -1716903586840570947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_3
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1562
+        width: 151
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c9d25f254c83d30800000000000000
+      internalID: 4411491695589170204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_4
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1566
+        width: 152
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bac46e156640d300800000000000000
+      internalID: 274796977385163440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_5
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1895
+        width: 477
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52e0fd889ef722d0800000000000000
+      internalID: -3303391870483111333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_6
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1739
+        width: 475
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9549a67e4eaf88d0800000000000000
+      internalID: -2841861187826006626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_7
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1875
+        width: 477
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8434f1f75de4110800000000000000
+      internalID: 1247168888790272204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_8
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1578
+        width: 169
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a6b32692ae56290800000000000000
+      internalID: -7897648908061676959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_9
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1585
+        width: 473
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b97391a63c6c2c0800000000000000
+      internalID: -4411623924505797811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_10
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1719
+        width: 473
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462d4c76fd720a380800000000000000
+      internalID: -8962119417995144604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1076
+        width: 156
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f56f4d0d2df9a8c0800000000000000
+      internalID: -3987377625121200648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_12
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1086
+        width: 152
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdc10a27575d4d00800000000000000
+      internalID: 958518327578316273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_13
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1433
+        width: 468
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e273c41b3d1571130800000000000000
+      internalID: 3537386001977325358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_14
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1559
+        width: 469
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731bd23e32c532850800000000000000
+      internalID: 6351021208727564599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_15
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1112
+        width: 170
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452fcfb16b789b990800000000000000
+      internalID: -7369710098991746476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1053
+        width: 158
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9722c08601dce5fd0800000000000000
+      internalID: -2351216485092023687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1059
+        width: 151
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d629edfe44891db70800000000000000
+      internalID: 8922079758647202413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_18
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1072
+        width: 152
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ce0e7495b0f7120800000000000000
+      internalID: 2413660403379793038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_19
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1277
+        width: 464
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18db4ba02475e00b0800000000000000
+      internalID: -5760570932201210495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_20
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1243
+        width: 465
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a12d8007598aa40800000000000000
+      internalID: 5379714063310920270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_21
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1401
+        width: 468
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593a3f2aabbb68720800000000000000
+      internalID: 2848170224630604693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_22
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1121
+        width: 461
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd0e8516d84a5e50800000000000000
+      internalID: 6798826671791017438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_23
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 951
+        width: 456
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f829ff5b483a9e20800000000000000
+      internalID: 3358058368541993205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_24
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1085
+        width: 460
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedd3be0bcd210f90800000000000000
+      internalID: -6989254796554019347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 558
+        width: 151
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab8932043c2641d0800000000000000
+      internalID: -3366955069525619793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 563
+        width: 152
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9b9216f5a3094f0800000000000000
+      internalID: -824094550482372121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_27
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 573
+        width: 151
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c0d24c304cf0ab0800000000000000
+      internalID: -5039593937549063101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_28
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 585
+        width: 151
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992558cac33f4f220800000000000000
+      internalID: 2518905533524955801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_29
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 594
+        width: 163
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3df4375efa4c450800000000000000
+      internalID: 6108200394638218201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_30
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 793
+        width: 453
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2df9074b96a7010800000000000000
+      internalID: 1187377675470099125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_31
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 763
+        width: 448
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b3a3499d5c936a0800000000000000
+      internalID: -6468921851455587457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_32
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 925
+        width: 456
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb2516b618f201f0800000000000000
+      internalID: -1080028184187687950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_33
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 664
+        width: 169
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e363a3f33ecd620800000000000000
+      internalID: 2800362929016684139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_34
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 658
+        width: 168
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb4db6c13ef050b0800000000000000
+      internalID: -5741810035156235283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_35
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 596
+        width: 434
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1930c7abaedff8ef0800000000000000
+      internalID: -103585081813367919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_36
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 604
+        width: 442
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdc973fca39107f0800000000000000
+      internalID: -648074500336136757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_37
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 217
+        width: 166
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47d159a0a6e44f10800000000000000
+      internalID: 2253179291301959502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_38
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 67
+        width: 170
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833bea93df48d5b30800000000000000
+      internalID: 4277721444201182008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_39
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 77
+        width: 151
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a820742cd4dd04120800000000000000
+      internalID: 2396158327802757770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_40
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 87
+        width: 153
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb5242b95a274330800000000000000
+      internalID: 3694968584011930567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_41
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 102
+        width: 152
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb1bb175eb8b2400800000000000000
+      internalID: 300487617722129352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_42
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 114
+        width: 156
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcb6eeb8dd24b5b0800000000000000
+      internalID: -5353603648097698567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_43
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 4
+        width: 161
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9057cc61ac601e090800000000000000
+      internalID: -8007111197452372727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_44
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 9
+        width: 162
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b8acb8b1c2c2e30800000000000000
+      internalID: 4480004226147846968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_45
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 10
+        width: 164
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4156407707d059880800000000000000
+      internalID: -8604956736337189612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fish_renyu_0_46
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 439
+        width: 445
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375045c7466121eb0800000000000000
+      internalID: -4750710036084030093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fish_renyu_0_0: -4055899945266057521
+      fish_renyu_0_1: 8499340058661303620
+      fish_renyu_0_10: -8962119417995144604
+      fish_renyu_0_11: -3987377625121200648
+      fish_renyu_0_12: 958518327578316273
+      fish_renyu_0_13: 3537386001977325358
+      fish_renyu_0_14: 6351021208727564599
+      fish_renyu_0_15: -7369710098991746476
+      fish_renyu_0_16: -2351216485092023687
+      fish_renyu_0_17: 8922079758647202413
+      fish_renyu_0_18: 2413660403379793038
+      fish_renyu_0_19: -5760570932201210495
+      fish_renyu_0_2: -1716903586840570947
+      fish_renyu_0_20: 5379714063310920270
+      fish_renyu_0_21: 2848170224630604693
+      fish_renyu_0_22: 6798826671791017438
+      fish_renyu_0_23: 3358058368541993205
+      fish_renyu_0_24: -6989254796554019347
+      fish_renyu_0_25: -3366955069525619793
+      fish_renyu_0_26: -824094550482372121
+      fish_renyu_0_27: -5039593937549063101
+      fish_renyu_0_28: 2518905533524955801
+      fish_renyu_0_29: 6108200394638218201
+      fish_renyu_0_3: 4411491695589170204
+      fish_renyu_0_30: 1187377675470099125
+      fish_renyu_0_31: -6468921851455587457
+      fish_renyu_0_32: -1080028184187687950
+      fish_renyu_0_33: 2800362929016684139
+      fish_renyu_0_34: -5741810035156235283
+      fish_renyu_0_35: -103585081813367919
+      fish_renyu_0_36: -648074500336136757
+      fish_renyu_0_37: 2253179291301959502
+      fish_renyu_0_38: 4277721444201182008
+      fish_renyu_0_39: 2396158327802757770
+      fish_renyu_0_4: 274796977385163440
+      fish_renyu_0_40: 3694968584011930567
+      fish_renyu_0_41: 300487617722129352
+      fish_renyu_0_42: -5353603648097698567
+      fish_renyu_0_43: -8007111197452372727
+      fish_renyu_0_44: 4480004226147846968
+      fish_renyu_0_45: -8604956736337189612
+      fish_renyu_0_46: -4750710036084030093
+      fish_renyu_0_5: -3303391870483111333
+      fish_renyu_0_6: -2841861187826006626
+      fish_renyu_0_7: 1247168888790272204
+      fish_renyu_0_8: -7897648908061676959
+      fish_renyu_0_9: -4411623924505797811
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

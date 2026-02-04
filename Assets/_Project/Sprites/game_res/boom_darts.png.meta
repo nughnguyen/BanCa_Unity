@@ -1,0 +1,5772 @@
+fileFormatVersion: 2
+guid: ae3bdd67996fd864ebedb5790e329a23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3900270368790024746
+    second: boom_darts_0
+  - first:
+      213: -535678300878213004
+    second: boom_darts_1
+  - first:
+      213: -2152404213362625653
+    second: boom_darts_2
+  - first:
+      213: 1439064025276065768
+    second: boom_darts_3
+  - first:
+      213: 5912914636336219262
+    second: boom_darts_4
+  - first:
+      213: -8702173731986523086
+    second: boom_darts_5
+  - first:
+      213: -3593962244038026817
+    second: boom_darts_6
+  - first:
+      213: -2631104155538625971
+    second: boom_darts_7
+  - first:
+      213: -3824486837965831816
+    second: boom_darts_8
+  - first:
+      213: -7522911937023452747
+    second: boom_darts_9
+  - first:
+      213: 3606326046922460325
+    second: boom_darts_10
+  - first:
+      213: -9078394310898026199
+    second: boom_darts_11
+  - first:
+      213: -3135776159502457967
+    second: boom_darts_12
+  - first:
+      213: 1444908665292118994
+    second: boom_darts_13
+  - first:
+      213: 1190269199655259776
+    second: boom_darts_14
+  - first:
+      213: -3218269453173373433
+    second: boom_darts_15
+  - first:
+      213: -5126275417066195976
+    second: boom_darts_16
+  - first:
+      213: 594105172941545527
+    second: boom_darts_17
+  - first:
+      213: -2208588602046637470
+    second: boom_darts_18
+  - first:
+      213: 5661384903238136295
+    second: boom_darts_19
+  - first:
+      213: -2706297752070131542
+    second: boom_darts_20
+  - first:
+      213: -2999805551407553981
+    second: boom_darts_21
+  - first:
+      213: 2945738103865847968
+    second: boom_darts_22
+  - first:
+      213: -8364222002586690395
+    second: boom_darts_23
+  - first:
+      213: -4298033846389934358
+    second: boom_darts_24
+  - first:
+      213: 6802497082966360226
+    second: boom_darts_25
+  - first:
+      213: 2730401011758993527
+    second: boom_darts_26
+  - first:
+      213: -7988249203778954568
+    second: boom_darts_27
+  - first:
+      213: 4210970943911501915
+    second: boom_darts_28
+  - first:
+      213: -1397760065356966702
+    second: boom_darts_29
+  - first:
+      213: 2190566356960922965
+    second: boom_darts_30
+  - first:
+      213: 6217268052747833017
+    second: boom_darts_31
+  - first:
+      213: 1594921068995705516
+    second: boom_darts_32
+  - first:
+      213: 5509357883111752228
+    second: boom_darts_33
+  - first:
+      213: -7994767432610547134
+    second: boom_darts_34
+  - first:
+      213: -2786802184044229865
+    second: boom_darts_35
+  - first:
+      213: 2965110675898840699
+    second: boom_darts_36
+  - first:
+      213: -1471978762105841486
+    second: boom_darts_37
+  - first:
+      213: -7370112349150922470
+    second: boom_darts_38
+  - first:
+      213: 3432144951025293955
+    second: boom_darts_39
+  - first:
+      213: 7538482705769045400
+    second: boom_darts_40
+  - first:
+      213: -8734093422623102471
+    second: boom_darts_41
+  - first:
+      213: -8958310520016165345
+    second: boom_darts_42
+  - first:
+      213: 7649923636808257145
+    second: boom_darts_43
+  - first:
+      213: -5161255075539756050
+    second: boom_darts_44
+  - first:
+      213: -1576021894428511413
+    second: boom_darts_45
+  - first:
+      213: -1417443654365024907
+    second: boom_darts_46
+  - first:
+      213: -1223488434060830738
+    second: boom_darts_47
+  - first:
+      213: -3593466241964689917
+    second: boom_darts_48
+  - first:
+      213: -9041071797335619572
+    second: boom_darts_49
+  - first:
+      213: 2126623850146902478
+    second: boom_darts_50
+  - first:
+      213: -4959191205888776136
+    second: boom_darts_51
+  - first:
+      213: -578095471563393325
+    second: boom_darts_52
+  - first:
+      213: 1225584933354003197
+    second: boom_darts_53
+  - first:
+      213: 4957726470904271793
+    second: boom_darts_54
+  - first:
+      213: -2533255372486983858
+    second: boom_darts_55
+  - first:
+      213: 5122132876365872245
+    second: boom_darts_56
+  - first:
+      213: -2681191833672079140
+    second: boom_darts_57
+  - first:
+      213: 6958411404630875978
+    second: boom_darts_58
+  - first:
+      213: -6753654580633411945
+    second: boom_darts_59
+  - first:
+      213: -1280029834660688472
+    second: boom_darts_60
+  - first:
+      213: 638542742184280660
+    second: boom_darts_61
+  - first:
+      213: -7125345113611891255
+    second: boom_darts_62
+  - first:
+      213: 1895106067740515150
+    second: boom_darts_63
+  - first:
+      213: 4714452477612883747
+    second: boom_darts_64
+  - first:
+      213: 7438450197896299992
+    second: boom_darts_65
+  - first:
+      213: 1983438155740743145
+    second: boom_darts_66
+  - first:
+      213: -333751163939234832
+    second: boom_darts_67
+  - first:
+      213: -1174466349356304350
+    second: boom_darts_68
+  - first:
+      213: 2909700944149558939
+    second: boom_darts_69
+  - first:
+      213: -1174905396722777023
+    second: boom_darts_70
+  - first:
+      213: 3821423379427673946
+    second: boom_darts_71
+  - first:
+      213: 7898242114663882326
+    second: boom_darts_72
+  - first:
+      213: -817635760906193609
+    second: boom_darts_73
+  - first:
+      213: -5864602734930746433
+    second: boom_darts_74
+  - first:
+      213: 5395786736452418181
+    second: boom_darts_75
+  - first:
+      213: -5854470168187998398
+    second: boom_darts_76
+  - first:
+      213: 2935064146228718857
+    second: boom_darts_77
+  - first:
+      213: -7935448520427565424
+    second: boom_darts_78
+  - first:
+      213: -262226067809896348
+    second: boom_darts_79
+  - first:
+      213: -736883065844265496
+    second: boom_darts_80
+  - first:
+      213: 4190732271816590654
+    second: boom_darts_81
+  - first:
+      213: -8032002599156300283
+    second: boom_darts_82
+  - first:
+      213: -2781010460328059836
+    second: boom_darts_83
+  - first:
+      213: -4559966765951786995
+    second: boom_darts_84
+  - first:
+      213: -4253357652980662069
+    second: boom_darts_85
+  - first:
+      213: 3176766742389754822
+    second: boom_darts_86
+  - first:
+      213: -5300782449684340582
+    second: boom_darts_87
+  - first:
+      213: -2370108914703114676
+    second: boom_darts_88
+  - first:
+      213: -1989604122388346012
+    second: boom_darts_89
+  - first:
+      213: 7645073479586654363
+    second: boom_darts_90
+  - first:
+      213: 3301276953570776971
+    second: boom_darts_91
+  - first:
+      213: 5254301375868121434
+    second: boom_darts_92
+  - first:
+      213: 4419183117345049050
+    second: boom_darts_93
+  - first:
+      213: 4400593275315569802
+    second: boom_darts_94
+  - first:
+      213: 4204138517103720214
+    second: boom_darts_95
+  - first:
+      213: 4066959580388746781
+    second: boom_darts_96
+  - first:
+      213: 1177897361459538500
+    second: boom_darts_97
+  - first:
+      213: 5819461237661693318
+    second: boom_darts_98
+  - first:
+      213: -2187168947881460775
+    second: boom_darts_99
+  - first:
+      213: 6024815177619858038
+    second: boom_darts_100
+  - first:
+      213: -4350514820806853495
+    second: boom_darts_101
+  - first:
+      213: -391051295777913994
+    second: boom_darts_102
+  - first:
+      213: 2817230441943388343
+    second: boom_darts_103
+  - first:
+      213: -6615451054756685939
+    second: boom_darts_104
+  - first:
+      213: -2700714860098456748
+    second: boom_darts_105
+  - first:
+      213: 6145669533235752926
+    second: boom_darts_106
+  - first:
+      213: -9117709687089927585
+    second: boom_darts_107
+  - first:
+      213: -2361933245575095705
+    second: boom_darts_108
+  - first:
+      213: 6662759102930067078
+    second: boom_darts_109
+  - first:
+      213: 1081521528372827747
+    second: boom_darts_110
+  - first:
+      213: 7357914475371103140
+    second: boom_darts_111
+  - first:
+      213: 1706125428291094583
+    second: boom_darts_112
+  - first:
+      213: -1928238755552721906
+    second: boom_darts_113
+  - first:
+      213: 1655437955695034906
+    second: boom_darts_114
+  - first:
+      213: -9101567224166741680
+    second: boom_darts_115
+  - first:
+      213: -5428808101377319594
+    second: boom_darts_116
+  - first:
+      213: -2644691694561305063
+    second: boom_darts_117
+  - first:
+      213: 7127213604226388180
+    second: boom_darts_118
+  - first:
+      213: -8263910164347240128
+    second: boom_darts_119
+  - first:
+      213: 7998866755412809814
+    second: boom_darts_120
+  - first:
+      213: 2517727667161703075
+    second: boom_darts_121
+  - first:
+      213: 8254229143885134874
+    second: boom_darts_122
+  - first:
+      213: 8304287002123332248
+    second: boom_darts_123
+  - first:
+      213: -1654813575819094475
+    second: boom_darts_124
+  - first:
+      213: 5900310227619061940
+    second: boom_darts_125
+  - first:
+      213: -2217949377234696425
+    second: boom_darts_126
+  - first:
+      213: 4560589375465038438
+    second: boom_darts_127
+  - first:
+      213: -514126263382731938
+    second: boom_darts_128
+  - first:
+      213: -7304854902194668122
+    second: boom_darts_129
+  - first:
+      213: 1805772465755117691
+    second: boom_darts_130
+  - first:
+      213: 1819438424176484693
+    second: boom_darts_131
+  - first:
+      213: 8715446474261275104
+    second: boom_darts_132
+  - first:
+      213: 3923941918176724733
+    second: boom_darts_133
+  - first:
+      213: -2999576899898297615
+    second: boom_darts_134
+  - first:
+      213: 8884923901912025209
+    second: boom_darts_135
+  - first:
+      213: -1328097135326188248
+    second: boom_darts_136
+  - first:
+      213: 8208772949904489972
+    second: boom_darts_137
+  - first:
+      213: 6828004311464721351
+    second: boom_darts_138
+  - first:
+      213: -47384823059221947
+    second: boom_darts_139
+  - first:
+      213: -1338757787333851421
+    second: boom_darts_140
+  - first:
+      213: 6451400587263208737
+    second: boom_darts_141
+  - first:
+      213: 8536071496331333052
+    second: boom_darts_142
+  - first:
+      213: 5837801667317677773
+    second: boom_darts_143
+  - first:
+      213: 2643929652420495653
+    second: boom_darts_144
+  - first:
+      213: 5807793245528927582
+    second: boom_darts_145
+  - first:
+      213: 8864819634826251116
+    second: boom_darts_146
+  - first:
+      213: 4380853708302045815
+    second: boom_darts_147
+  - first:
+      213: -8622965801816684791
+    second: boom_darts_148
+  - first:
+      213: -4963118083897127884
+    second: boom_darts_149
+  - first:
+      213: -8502563756677265446
+    second: boom_darts_150
+  - first:
+      213: 948337415108623561
+    second: boom_darts_151
+  - first:
+      213: 3441940496442644744
+    second: boom_darts_152
+  - first:
+      213: 4863566280375714616
+    second: boom_darts_153
+  - first:
+      213: 5007707419794154945
+    second: boom_darts_154
+  - first:
+      213: -2629481908256734192
+    second: boom_darts_155
+  - first:
+      213: 4004240823137081015
+    second: boom_darts_156
+  - first:
+      213: -3561602307522479576
+    second: boom_darts_157
+  - first:
+      213: -738409585014303482
+    second: boom_darts_158
+  - first:
+      213: 5777419219731209349
+    second: boom_darts_159
+  - first:
+      213: 8450840194086582746
+    second: boom_darts_160
+  - first:
+      213: 115702625022073169
+    second: boom_darts_161
+  - first:
+      213: 2317614311978744441
+    second: boom_darts_162
+  - first:
+      213: -8884374799613848780
+    second: boom_darts_163
+  - first:
+      213: 4714758404760710618
+    second: boom_darts_164
+  - first:
+      213: 8344047585822752032
+    second: boom_darts_165
+  - first:
+      213: -7119566658729747300
+    second: boom_darts_166
+  - first:
+      213: 2697205293228001388
+    second: boom_darts_167
+  - first:
+      213: 5776137378905762052
+    second: boom_darts_168
+  - first:
+      213: -7677515604494286376
+    second: boom_darts_169
+  - first:
+      213: 2541601345882772695
+    second: boom_darts_170
+  - first:
+      213: -7676853971540512097
+    second: boom_darts_171
+  - first:
+      213: 4303136946867309399
+    second: boom_darts_172
+  - first:
+      213: 7329481784925063709
+    second: boom_darts_173
+  - first:
+      213: -2609535439202610289
+    second: boom_darts_174
+  - first:
+      213: -6369752703826852312
+    second: boom_darts_175
+  - first:
+      213: 5678013605831978001
+    second: boom_darts_176
+  - first:
+      213: 1989147726412785368
+    second: boom_darts_177
+  - first:
+      213: -257572115632843731
+    second: boom_darts_178
+  - first:
+      213: 4291062326587459170
+    second: boom_darts_179
+  - first:
+      213: -8667419684076424598
+    second: boom_darts_180
+  - first:
+      213: -9042275111671823208
+    second: boom_darts_181
+  - first:
+      213: -2681639258931198860
+    second: boom_darts_182
+  - first:
+      213: 2008065353111228580
+    second: boom_darts_183
+  - first:
+      213: 7766633322522276656
+    second: boom_darts_184
+  - first:
+      213: 575176616380704511
+    second: boom_darts_185
+  - first:
+      213: -970212268125312375
+    second: boom_darts_186
+  - first:
+      213: -261252362124879807
+    second: boom_darts_187
+  - first:
+      213: 306831660573310009
+    second: boom_darts_188
+  - first:
+      213: 6240702211984759212
+    second: boom_darts_189
+  - first:
+      213: 6556254388727351986
+    second: boom_darts_190
+  - first:
+      213: 5008784487114292457
+    second: boom_darts_191
+  - first:
+      213: 191273381149202357
+    second: boom_darts_192
+  - first:
+      213: 5936155717227196745
+    second: boom_darts_193
+  - first:
+      213: -2680671039622637386
+    second: boom_darts_194
+  - first:
+      213: 4816353800699029230
+    second: boom_darts_195
+  - first:
+      213: 8544452088313974519
+    second: boom_darts_196
+  - first:
+      213: -5656171209346935307
+    second: boom_darts_197
+  - first:
+      213: -3597578404839791786
+    second: boom_darts_198
+  - first:
+      213: 9109155738052277675
+    second: boom_darts_199
+  - first:
+      213: -1282279336892861762
+    second: boom_darts_200
+  - first:
+      213: 2517565155115592312
+    second: boom_darts_201
+  - first:
+      213: -2464646348185313411
+    second: boom_darts_202
+  - first:
+      213: 7713019864814809087
+    second: boom_darts_203
+  - first:
+      213: -4012511677814901573
+    second: boom_darts_204
+  - first:
+      213: 6659129905358873993
+    second: boom_darts_205
+  - first:
+      213: 6649866763200440461
+    second: boom_darts_206
+  - first:
+      213: 2920269485703524138
+    second: boom_darts_207
+  - first:
+      213: -1560977265096685828
+    second: boom_darts_208
+  - first:
+      213: -6442884691154522858
+    second: boom_darts_209
+  - first:
+      213: 4487288057357689836
+    second: boom_darts_210
+  - first:
+      213: 1834097673086543621
+    second: boom_darts_211
+  - first:
+      213: -9105623752815841128
+    second: boom_darts_212
+  - first:
+      213: 7100197123769848181
+    second: boom_darts_213
+  - first:
+      213: -6832801914132471418
+    second: boom_darts_214
+  - first:
+      213: 3318117480337884053
+    second: boom_darts_215
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boom_darts_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1914
+        width: 83
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2216b36c3b802630800000000000000
+      internalID: 3900270368790024746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1924
+        width: 58
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470f44a6c63e098f0800000000000000
+      internalID: -535678300878213004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1937
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83777995cf1122e0800000000000000
+      internalID: -2152404213362625653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_3
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1676
+        width: 366
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7af934b1598f310800000000000000
+      internalID: 1439064025276065768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1682
+        width: 359
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e744706a884ee0250800000000000000
+      internalID: 5912914636336219262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_5
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1965
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c353bc81bab3780800000000000000
+      internalID: -8702173731986523086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_6
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1997
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb992f3716eaf1ec0800000000000000
+      internalID: -3593962244038026817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_7
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1987
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ae012f5b07c7bd0800000000000000
+      internalID: -2631104155538625971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_8
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1954
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871c3eedb71bceac0800000000000000
+      internalID: -3824486837965831816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_9
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1972
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9db2d837f399790800000000000000
+      internalID: -7522911937023452747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_10
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1993
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac4d0bbe6e3c0230800000000000000
+      internalID: 3606326046922460325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_11
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1989
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929feff3970130280800000000000000
+      internalID: -9078394310898026199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_12
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1961
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193a7bd623c7b74d0800000000000000
+      internalID: -3135776159502457967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_13
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1707
+        width: 333
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbde9f86c85d0410800000000000000
+      internalID: 1444908665292118994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1876
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e4a80e78fa48010800000000000000
+      internalID: 1190269199655259776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_15
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1893
+        width: 104
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7064c14cbf86653d0800000000000000
+      internalID: -3218269453173373433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_16
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1929
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3b3f81bafcbd8b0800000000000000
+      internalID: -5126275417066195976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_17
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1899
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7302760d18fae3800800000000000000
+      internalID: 594105172941545527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_18
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1911
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a98083e548951e0800000000000000
+      internalID: -2208588602046637470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_19
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 1909
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1b44ef297419e40800000000000000
+      internalID: 5661384903238136295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1845
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0fb67788c417ad0800000000000000
+      internalID: -2706297752070131542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_21
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1855
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342ab11aebc8e56d0800000000000000
+      internalID: -2999805551407553981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_22
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1873
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0b142c23d51e820800000000000000
+      internalID: 2945738103865847968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_23
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1865
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac505977605ceb80800000000000000
+      internalID: -8364222002586690395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_24
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1836
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae672591df05a54c0800000000000000
+      internalID: -4298033846389934358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_25
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1840
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a047d74e03576e50800000000000000
+      internalID: 6802497082966360226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_26
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1844
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7701340014554e520800000000000000
+      internalID: 2730401011758993527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1812
+        width: 128
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba55773ca9042190800000000000000
+      internalID: -7988249203778954568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_28
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1789
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50265743cf507a30800000000000000
+      internalID: 4210970943911501915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_29
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1769
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4db2f40a82a9ce0800000000000000
+      internalID: -1397760065356966702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_30
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1801
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dc39bde74766e10800000000000000
+      internalID: 2190566356960922965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_31
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1756
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be4b6d7a5c284650800000000000000
+      internalID: 6217268052747833017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_32
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1777
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa7642134c422610800000000000000
+      internalID: 1594921068995705516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_33
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1772
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422cf5b0ecb257c40800000000000000
+      internalID: 5509357883111752228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1735
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24af26dc061ec0190800000000000000
+      internalID: -7994767432610547134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_35
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1659
+        width: 94
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bc2c0cd2a4359d0800000000000000
+      internalID: -2786802184044229865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_36
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1629
+        width: 59
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b763bac2370362920800000000000000
+      internalID: 2965110675898840699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_37
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1631
+        width: 72
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b813cf5d1b729be0800000000000000
+      internalID: -1471978762105841486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_38
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1693
+        width: 106
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19b322fdd918b990800000000000000
+      internalID: -7370112349150922470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_39
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1734
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a538f06ad61af20800000000000000
+      internalID: 3432144951025293955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_40
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1721
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d1ace84121e9860800000000000000
+      internalID: 7538482705769045400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_41
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1725
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9697dae444ac680800000000000000
+      internalID: -8734093422623102471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_42
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1705
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16aac29b00bda380800000000000000
+      internalID: -8958310520016165345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_43
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1716
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e02d2440df92a60800000000000000
+      internalID: 7649923636808257145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_44
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1729
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb5543bad98f58b0800000000000000
+      internalID: -5161255075539756050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_45
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1694
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43b958ef68d02ae0800000000000000
+      internalID: -1576021894428511413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_46
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1654
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57de07c918a345ce0800000000000000
+      internalID: -1417443654365024907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_47
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1652
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7510560cb450fe0800000000000000
+      internalID: -1223488434060830738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_48
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1441
+        width: 263
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306365fed71712ec0800000000000000
+      internalID: -3593466241964689917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_49
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1322
+        width: 353
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08020b1a19a78280800000000000000
+      internalID: -9041071797335619572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_50
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1620
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec131e6df19438d10800000000000000
+      internalID: 2126623850146902478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_51
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1640
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83822c78fd96d2bb0800000000000000
+      internalID: -4959191205888776136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_52
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1637
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6b3334b313af7f0800000000000000
+      internalID: -578095471563393325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_53
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1619
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfad2a2e007220110800000000000000
+      internalID: 1225584933354003197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_54
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1645
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3dcc745f16dc440800000000000000
+      internalID: 4957726470904271793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_55
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1635
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f309519a118dcd0800000000000000
+      internalID: -2533255372486983858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_56
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1508
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c332c76b8751740800000000000000
+      internalID: 5122132876365872245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_57
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1579
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd82c4b9b3e7acad0800000000000000
+      internalID: -2681191833672079140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_58
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1594
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fdc062e4e319060800000000000000
+      internalID: 6958411404630875978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_59
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1557
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ed7a9f0f23642a0800000000000000
+      internalID: -6753654580633411945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_60
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1554
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adc523b5ab6c3ee0800000000000000
+      internalID: -1280029834660688472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_61
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1569
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4524cc9ad3f8cd800800000000000000
+      internalID: 638542742184280660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_62
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1568
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd0911fe50bd1d90800000000000000
+      internalID: -7125345113611891255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_63
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1483
+        width: 101
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b5c5b8de4cc4a10800000000000000
+      internalID: 1895106067740515150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_64
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1507
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f7396dc891d6140800000000000000
+      internalID: 4714452477612883747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_65
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1488
+        width: 94
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d50b0d5b0faa3760800000000000000
+      internalID: 7438450197896299992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_66
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1551
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e502e27e76968b10800000000000000
+      internalID: 1983438155740743145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_67
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1526
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb570ea5174e5bf0800000000000000
+      internalID: -333751163939234832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_68
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1517
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228b7fde31573bfe0800000000000000
+      internalID: -1174466349356304350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_69
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1544
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9637aaa795516820800000000000000
+      internalID: 2909700944149558939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_70
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1474
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14446af34c5e1bfe0800000000000000
+      internalID: -1174905396722777023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_71
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1442
+        width: 109
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57c82b115c680530800000000000000
+      internalID: 3821423379427673946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_72
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1442
+        width: 133
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e129a4b513c9d60800000000000000
+      internalID: 7898242114663882326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_73
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1499
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735b7838b9c27a4f0800000000000000
+      internalID: -817635760906193609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_74
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1494
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb32ba372eebc9ea0800000000000000
+      internalID: -5864602734930746433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_75
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1449
+        width: 116
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ab20ed27fa1ea40800000000000000
+      internalID: 5395786736452418181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_76
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1485
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f680d766eb0cea0800000000000000
+      internalID: -5854470168187998398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_77
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1489
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90da2f45a417bb820800000000000000
+      internalID: 2935064146228718857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_78
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1499
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e048e4d9f9fd190800000000000000
+      internalID: -7935448520427565424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_79
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1448
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468f759d7c26c5cf0800000000000000
+      internalID: -262226067809896348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_80
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1421
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed0a5b71c016c5f0800000000000000
+      internalID: -736883065844265496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_81
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1459
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35c46a3cc8782a30800000000000000
+      internalID: 4190732271816590654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_82
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1414
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50646420138988090800000000000000
+      internalID: -8032002599156300283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_83
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1434
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c108388bdd769d0800000000000000
+      internalID: -2781010460328059836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_84
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 1426
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d006bd7d26eb7b0c0800000000000000
+      internalID: -4559966765951786995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_85
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1376
+        width: 118
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc00667ffb909f4c0800000000000000
+      internalID: -4253357652980662069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_86
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1378
+        width: 114
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb8a6e5584261c20800000000000000
+      internalID: 3176766742389754822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_87
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1379
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90a0fe5276df66b0800000000000000
+      internalID: -5300782449684340582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_88
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1384
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e522cdf7eab1fd0800000000000000
+      internalID: -2370108914703114676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_89
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1396
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bc36197918364e0800000000000000
+      internalID: -1989604122388346012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_90
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1416
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98a58803d1c81a60800000000000000
+      internalID: 7645073479586654363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_91
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1349
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8715caf5ed70dd20800000000000000
+      internalID: 3301276953570776971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_92
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1361
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51377b43470be840800000000000000
+      internalID: 5254301375868121434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_93
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1374
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad941c2a1a7145d30800000000000000
+      internalID: 4419183117345049050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_94
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1365
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a844820c44c021d30800000000000000
+      internalID: 4400593275315569802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_95
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1373
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6173182f4b9185a30800000000000000
+      internalID: 4204138517103720214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_96
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1386
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1661f0d03eb07830800000000000000
+      internalID: 4066959580388746781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_97
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1396
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a6aa3d86bb85010800000000000000
+      internalID: 1177897361459538500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_98
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1295
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685fafea921e2c050800000000000000
+      internalID: 5819461237661693318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_99
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1246
+        width: 79
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbb2c51e6d95a1e0800000000000000
+      internalID: -2187168947881460775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_100
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1211
+        width: 60
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672e963bb717c9350800000000000000
+      internalID: 6024815177619858038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_101
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1248
+        width: 74
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c3cbb02dddf93c0800000000000000
+      internalID: -4350514820806853495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_102
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1287
+        width: 101
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673833a1be4b29af0800000000000000
+      internalID: -391051295777913994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_103
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1319
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0d37e1920d81720800000000000000
+      internalID: 2817230441943388343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_104
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1248
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d879e3cd0523134a0800000000000000
+      internalID: -6615451054756685939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_105
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1271
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453763cc422258ad0800000000000000
+      internalID: -2700714860098456748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_106
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1291
+        width: 101
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf257b11edc94550800000000000000
+      internalID: 6145669533235752926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_107
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1223
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5aedd7e853677180800000000000000
+      internalID: -9117709687089927585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_108
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 975
+        width: 339
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a9f4a2a3ab83fd0800000000000000
+      internalID: -2361933245575095705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_109
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1043
+        width: 316
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e95227a10e67c50800000000000000
+      internalID: 6662759102930067078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_110
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1075
+        width: 288
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36699939916520f00800000000000000
+      internalID: 1081521528372827747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_111
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1258
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a303304b309c1660800000000000000
+      internalID: 7357914475371103140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_112
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1227
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7384d8f99006da710800000000000000
+      internalID: 1706125428291094583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_113
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1067
+        width: 98
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04832d61158d35e0800000000000000
+      internalID: -1928238755552721906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_114
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1093
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12c6e0cc0c49f610800000000000000
+      internalID: 1655437955695034906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_115
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1150
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0590430f4dcb0b180800000000000000
+      internalID: -9101567224166741680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_116
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1074
+        width: 93
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d54ab7bcff8a4b0800000000000000
+      internalID: -5428808101377319594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_117
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1068
+        width: 99
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e5f3d7aea2c4bd0800000000000000
+      internalID: -2644691694561305063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_118
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1093
+        width: 67
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0de3ee203f8e260800000000000000
+      internalID: 7127213604226388180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_119
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1087
+        width: 66
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041c7565d71b05d80800000000000000
+      internalID: -8263910164347240128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_120
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1068
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658df0a2feea10f60800000000000000
+      internalID: 7998866755412809814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_121
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 870
+        width: 346
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2a85a49f3c0f220800000000000000
+      internalID: 2517727667161703075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_122
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1027
+        width: 108
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c33ff6ca9ec8270800000000000000
+      internalID: 8254229143885134874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_123
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1089
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a647ac701ce3370800000000000000
+      internalID: 8304287002123332248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_124
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1027
+        width: 132
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5361fc302dbe809e0800000000000000
+      internalID: -1654813575819094475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_125
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1028
+        width: 122
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0a6dd04ec12e150800000000000000
+      internalID: 5900310227619061940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_126
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1028
+        width: 130
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7178028eac24831e0800000000000000
+      internalID: -2217949377234696425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_127
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 962
+        width: 121
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662a30bbfd77a4f30800000000000000
+      internalID: 4560589375465038438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_128
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 882
+        width: 114
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e539f5d23e47dd8f0800000000000000
+      internalID: -514126263382731938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_129
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 874
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad7ae25b21ff9a90800000000000000
+      internalID: -7304854902194668122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_130
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 964
+        width: 130
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78d38e7d746f0910800000000000000
+      internalID: 1805772465755117691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_131
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 964
+        width: 118
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5516cb36b91ff3910800000000000000
+      internalID: 1819438424176484693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_132
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 885
+        width: 113
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e12645546c73f870800000000000000
+      internalID: 8715446474261275104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_133
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 877
+        width: 118
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df640387264a47630800000000000000
+      internalID: 3923941918176724733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_134
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 966
+        width: 127
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f23815b3bc5f56d0800000000000000
+      internalID: -2999576899898297615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_135
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 799
+        width: 172
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97808d5e6379d4b70800000000000000
+      internalID: 8884923901912025209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_136
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 837
+        width: 138
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d2ba521b6a19de0800000000000000
+      internalID: -1328097135326188248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_137
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 805
+        width: 236
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd74e8818b6be170800000000000000
+      internalID: 8208772949904489972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_138
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 835
+        width: 205
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbb0b5beb1f1ce50800000000000000
+      internalID: 6828004311464721351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_139
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 834
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5427fc521c7a75ff0800000000000000
+      internalID: -47384823059221947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_140
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 795
+        width: 58
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e68dada2e6cb6de0800000000000000
+      internalID: -1338757787333851421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_141
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 836
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12de19337aaf78950800000000000000
+      internalID: 6451400587263208737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_142
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 837
+        width: 79
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd8a24ccc7367670800000000000000
+      internalID: 8536071496331333052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_143
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 799
+        width: 60
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce37a9bfa9040150800000000000000
+      internalID: 5837801667317677773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_144
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 839
+        width: 75
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52945afb20021b420800000000000000
+      internalID: 2643929652420495653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_145
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 807
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d2aa09f2d699050800000000000000
+      internalID: 5807793245528927582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_146
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 672
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b0ab37d7a260b70800000000000000
+      internalID: 8864819634826251116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_147
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 690
+        width: 51
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772db48ac3bebcc30800000000000000
+      internalID: 4380853708302045815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_148
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 696
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90700682a42155880800000000000000
+      internalID: -8622965801816684791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_149
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 747
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c8efef5667f1bb0800000000000000
+      internalID: -4963118083897127884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_150
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 691
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad70423df43d00a80800000000000000
+      internalID: -8502563756677265446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_151
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 615
+        width: 150
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccf2c2cadb292d00800000000000000
+      internalID: 948337415108623561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_152
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 684
+        width: 65
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809de7435aa34cf20800000000000000
+      internalID: 3441940496442644744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_153
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 677
+        width: 67
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833cc5383cbde7340800000000000000
+      internalID: 4863566280375714616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_154
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 660
+        width: 100
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c52be7cd53fe7540800000000000000
+      internalID: 5007707419794154945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_155
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 657
+        width: 98
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0148a03d224328bd0800000000000000
+      internalID: -2629481908256734192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_156
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 682
+        width: 66
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6143230dbe19730800000000000000
+      internalID: 4004240823137081015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_157
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 676
+        width: 65
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a39ec4295a29ec0800000000000000
+      internalID: -3561602307522479576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_158
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 658
+        width: 101
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6059a7a0564a0c5f0800000000000000
+      internalID: -738409585014303482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_159
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 467
+        width: 325
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cd7969b248d2050800000000000000
+      internalID: 5777419219731209349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_160
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 497
+        width: 305
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9bf1ec16a674570800000000000000
+      internalID: 8450840194086582746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_161
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 639
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1595508acee0b9100800000000000000
+      internalID: 115702625022073169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_162
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 651
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97abadfffe1d92020800000000000000
+      internalID: 2317614311978744441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_163
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 623
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4339591f03c54b480800000000000000
+      internalID: -8884374799613848780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_164
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 545
+        width: 130
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addac8d0acf2e6140800000000000000
+      internalID: 4714758404760710618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_165
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 618
+        width: 129
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02dbbe512130cc370800000000000000
+      internalID: 8344047585822752032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_166
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 619
+        width: 129
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cd2bf48d7323d90800000000000000
+      internalID: -7119566658729747300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_167
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 574
+        width: 93
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68882d7ce56e6520800000000000000
+      internalID: 2697205293228001388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_168
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 584
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409a883c756f82050800000000000000
+      internalID: 5776137378905762052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_169
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 603
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d189942c3cf37590800000000000000
+      internalID: -7677515604494286376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_170
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 557
+        width: 125
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d45ff545f4954320800000000000000
+      internalID: 2541601345882772695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_171
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 555
+        width: 126
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92f7c19cf5567590800000000000000
+      internalID: -7676853971540512097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_172
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 557
+        width: 125
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b82e11140d7bb30800000000000000
+      internalID: 4303136946867309399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_173
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 496
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a8722a9dc87b560800000000000000
+      internalID: 7329481784925063709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_174
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 546
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83198d085119cbd0800000000000000
+      internalID: -2609535439202610289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_175
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 532
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826015d0aa71a97a0800000000000000
+      internalID: -6369752703826852312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_176
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 558
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c23758a4b5cce40800000000000000
+      internalID: 5678013605831978001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_177
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 472
+        width: 109
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d62c96715fda9b10800000000000000
+      internalID: 1989147726412785368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_178
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 434
+        width: 85
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2498a7868bec6cf0800000000000000
+      internalID: -257572115632843731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_179
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 471
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2668e45737aec8b30800000000000000
+      internalID: 4291062326587459170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_180
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 477
+        width: 110
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62756328b327b780800000000000000
+      internalID: -8667419684076424598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_181
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 469
+        width: 118
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8940277a1b2638280800000000000000
+      internalID: -9042275111671823208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_182
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 414
+        width: 98
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4740aab4d47e8cad0800000000000000
+      internalID: -2681639258931198860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_183
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 383
+        width: 59
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0d6f9acc41edb10800000000000000
+      internalID: 2008065353111228580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_184
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 386
+        width: 68
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033f6a18bdf98cb60800000000000000
+      internalID: 7766633322522276656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_185
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 451
+        width: 104
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6ab7ec5107bf700800000000000000
+      internalID: 575176616380704511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_186
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 387
+        width: 60
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a2aa1251d1982f0800000000000000
+      internalID: -970212268125312375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_187
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 429
+        width: 76
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14890de5c58df5cf0800000000000000
+      internalID: -261252362124879807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_188
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 430
+        width: 78
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cb05605c5124400800000000000000
+      internalID: 306831660573310009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_189
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 392
+        width: 60
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9985ed89d6b9650800000000000000
+      internalID: 6240702211984759212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_190
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 432
+        width: 76
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba803941ae7cfa50800000000000000
+      internalID: 6556254388727351986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_191
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 216
+        width: 134
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec3fee04f6c28540800000000000000
+      internalID: 5008784487114292457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_192
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 249
+        width: 101
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7d262702a87a200800000000000000
+      internalID: 191273381149202357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_193
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 238
+        width: 203
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9413bb87c26716250800000000000000
+      internalID: 5936155717227196745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_194
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 198
+        width: 112
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b89d9b64e75ccad0800000000000000
+      internalID: -2680671039622637386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_195
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 216
+        width: 129
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6a44b734027d240800000000000000
+      internalID: 4816353800699029230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_196
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 229
+        width: 274
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe8c4467edf39670800000000000000
+      internalID: 8544452088313974519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_197
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 198
+        width: 112
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f59516b04e3181b0800000000000000
+      internalID: -5656171209346935307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_198
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 84
+        width: 183
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65368e76085d21ec0800000000000000
+      internalID: -3597578404839791786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_199
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 10
+        width: 220
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba53152a1e83a6e70800000000000000
+      internalID: 9109155738052277675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_200
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 222
+        width: 134
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb27da5acbd643ee0800000000000000
+      internalID: -1282279336892861762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_201
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 255
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ae0918b2030f220800000000000000
+      internalID: 2517565155115592312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_202
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 244
+        width: 199
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f537f5431dbcdd0800000000000000
+      internalID: -2464646348185313411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_203
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 203
+        width: 110
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff61d3a3b62a0b60800000000000000
+      internalID: 7713019864814809087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_204
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 165
+        width: 135
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb47cb263e1b058c0800000000000000
+      internalID: -4012511677814901573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_205
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1
+        width: 334
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985a81a0e5bf96c50800000000000000
+      internalID: 6659129905358873993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_206
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 128
+        width: 118
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d882d30b692194c50800000000000000
+      internalID: 6649866763200440461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_207
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 167
+        width: 131
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f65cfff91e68820800000000000000
+      internalID: 2920269485703524138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_208
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 5
+        width: 327
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf68373a27b465ae0800000000000000
+      internalID: -1560977265096685828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_209
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 131
+        width: 117
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61daeee52864696a0800000000000000
+      internalID: -6442884691154522858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_210
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 44
+        width: 92
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce368a7a6bc064e30800000000000000
+      internalID: 4487288057357689836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_211
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 169
+        width: 141
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507a1bfbd16047910800000000000000
+      internalID: 1834097673086543621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_212
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 100
+        width: 121
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8907d03c07352a180800000000000000
+      internalID: -9105623752815841128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_213
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 132
+        width: 120
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5715d856aa7f88260800000000000000
+      internalID: 7100197123769848181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_214
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 3
+        width: 216
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681668f5cd20d21a0800000000000000
+      internalID: -6832801914132471418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_darts_215
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 62
+        width: 105
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593cd8aa4425c0e20800000000000000
+      internalID: 3318117480337884053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boom_darts_0: 3900270368790024746
+      boom_darts_1: -535678300878213004
+      boom_darts_10: 3606326046922460325
+      boom_darts_100: 6024815177619858038
+      boom_darts_101: -4350514820806853495
+      boom_darts_102: -391051295777913994
+      boom_darts_103: 2817230441943388343
+      boom_darts_104: -6615451054756685939
+      boom_darts_105: -2700714860098456748
+      boom_darts_106: 6145669533235752926
+      boom_darts_107: -9117709687089927585
+      boom_darts_108: -2361933245575095705
+      boom_darts_109: 6662759102930067078
+      boom_darts_11: -9078394310898026199
+      boom_darts_110: 1081521528372827747
+      boom_darts_111: 7357914475371103140
+      boom_darts_112: 1706125428291094583
+      boom_darts_113: -1928238755552721906
+      boom_darts_114: 1655437955695034906
+      boom_darts_115: -9101567224166741680
+      boom_darts_116: -5428808101377319594
+      boom_darts_117: -2644691694561305063
+      boom_darts_118: 7127213604226388180
+      boom_darts_119: -8263910164347240128
+      boom_darts_12: -3135776159502457967
+      boom_darts_120: 7998866755412809814
+      boom_darts_121: 2517727667161703075
+      boom_darts_122: 8254229143885134874
+      boom_darts_123: 8304287002123332248
+      boom_darts_124: -1654813575819094475
+      boom_darts_125: 5900310227619061940
+      boom_darts_126: -2217949377234696425
+      boom_darts_127: 4560589375465038438
+      boom_darts_128: -514126263382731938
+      boom_darts_129: -7304854902194668122
+      boom_darts_13: 1444908665292118994
+      boom_darts_130: 1805772465755117691
+      boom_darts_131: 1819438424176484693
+      boom_darts_132: 8715446474261275104
+      boom_darts_133: 3923941918176724733
+      boom_darts_134: -2999576899898297615
+      boom_darts_135: 8884923901912025209
+      boom_darts_136: -1328097135326188248
+      boom_darts_137: 8208772949904489972
+      boom_darts_138: 6828004311464721351
+      boom_darts_139: -47384823059221947
+      boom_darts_14: 1190269199655259776
+      boom_darts_140: -1338757787333851421
+      boom_darts_141: 6451400587263208737
+      boom_darts_142: 8536071496331333052
+      boom_darts_143: 5837801667317677773
+      boom_darts_144: 2643929652420495653
+      boom_darts_145: 5807793245528927582
+      boom_darts_146: 8864819634826251116
+      boom_darts_147: 4380853708302045815
+      boom_darts_148: -8622965801816684791
+      boom_darts_149: -4963118083897127884
+      boom_darts_15: -3218269453173373433
+      boom_darts_150: -8502563756677265446
+      boom_darts_151: 948337415108623561
+      boom_darts_152: 3441940496442644744
+      boom_darts_153: 4863566280375714616
+      boom_darts_154: 5007707419794154945
+      boom_darts_155: -2629481908256734192
+      boom_darts_156: 4004240823137081015
+      boom_darts_157: -3561602307522479576
+      boom_darts_158: -738409585014303482
+      boom_darts_159: 5777419219731209349
+      boom_darts_16: -5126275417066195976
+      boom_darts_160: 8450840194086582746
+      boom_darts_161: 115702625022073169
+      boom_darts_162: 2317614311978744441
+      boom_darts_163: -8884374799613848780
+      boom_darts_164: 4714758404760710618
+      boom_darts_165: 8344047585822752032
+      boom_darts_166: -7119566658729747300
+      boom_darts_167: 2697205293228001388
+      boom_darts_168: 5776137378905762052
+      boom_darts_169: -7677515604494286376
+      boom_darts_17: 594105172941545527
+      boom_darts_170: 2541601345882772695
+      boom_darts_171: -7676853971540512097
+      boom_darts_172: 4303136946867309399
+      boom_darts_173: 7329481784925063709
+      boom_darts_174: -2609535439202610289
+      boom_darts_175: -6369752703826852312
+      boom_darts_176: 5678013605831978001
+      boom_darts_177: 1989147726412785368
+      boom_darts_178: -257572115632843731
+      boom_darts_179: 4291062326587459170
+      boom_darts_18: -2208588602046637470
+      boom_darts_180: -8667419684076424598
+      boom_darts_181: -9042275111671823208
+      boom_darts_182: -2681639258931198860
+      boom_darts_183: 2008065353111228580
+      boom_darts_184: 7766633322522276656
+      boom_darts_185: 575176616380704511
+      boom_darts_186: -970212268125312375
+      boom_darts_187: -261252362124879807
+      boom_darts_188: 306831660573310009
+      boom_darts_189: 6240702211984759212
+      boom_darts_19: 5661384903238136295
+      boom_darts_190: 6556254388727351986
+      boom_darts_191: 5008784487114292457
+      boom_darts_192: 191273381149202357
+      boom_darts_193: 5936155717227196745
+      boom_darts_194: -2680671039622637386
+      boom_darts_195: 4816353800699029230
+      boom_darts_196: 8544452088313974519
+      boom_darts_197: -5656171209346935307
+      boom_darts_198: -3597578404839791786
+      boom_darts_199: 9109155738052277675
+      boom_darts_2: -2152404213362625653
+      boom_darts_20: -2706297752070131542
+      boom_darts_200: -1282279336892861762
+      boom_darts_201: 2517565155115592312
+      boom_darts_202: -2464646348185313411
+      boom_darts_203: 7713019864814809087
+      boom_darts_204: -4012511677814901573
+      boom_darts_205: 6659129905358873993
+      boom_darts_206: 6649866763200440461
+      boom_darts_207: 2920269485703524138
+      boom_darts_208: -1560977265096685828
+      boom_darts_209: -6442884691154522858
+      boom_darts_21: -2999805551407553981
+      boom_darts_210: 4487288057357689836
+      boom_darts_211: 1834097673086543621
+      boom_darts_212: -9105623752815841128
+      boom_darts_213: 7100197123769848181
+      boom_darts_214: -6832801914132471418
+      boom_darts_215: 3318117480337884053
+      boom_darts_22: 2945738103865847968
+      boom_darts_23: -8364222002586690395
+      boom_darts_24: -4298033846389934358
+      boom_darts_25: 6802497082966360226
+      boom_darts_26: 2730401011758993527
+      boom_darts_27: -7988249203778954568
+      boom_darts_28: 4210970943911501915
+      boom_darts_29: -1397760065356966702
+      boom_darts_3: 1439064025276065768
+      boom_darts_30: 2190566356960922965
+      boom_darts_31: 6217268052747833017
+      boom_darts_32: 1594921068995705516
+      boom_darts_33: 5509357883111752228
+      boom_darts_34: -7994767432610547134
+      boom_darts_35: -2786802184044229865
+      boom_darts_36: 2965110675898840699
+      boom_darts_37: -1471978762105841486
+      boom_darts_38: -7370112349150922470
+      boom_darts_39: 3432144951025293955
+      boom_darts_4: 5912914636336219262
+      boom_darts_40: 7538482705769045400
+      boom_darts_41: -8734093422623102471
+      boom_darts_42: -8958310520016165345
+      boom_darts_43: 7649923636808257145
+      boom_darts_44: -5161255075539756050
+      boom_darts_45: -1576021894428511413
+      boom_darts_46: -1417443654365024907
+      boom_darts_47: -1223488434060830738
+      boom_darts_48: -3593466241964689917
+      boom_darts_49: -9041071797335619572
+      boom_darts_5: -8702173731986523086
+      boom_darts_50: 2126623850146902478
+      boom_darts_51: -4959191205888776136
+      boom_darts_52: -578095471563393325
+      boom_darts_53: 1225584933354003197
+      boom_darts_54: 4957726470904271793
+      boom_darts_55: -2533255372486983858
+      boom_darts_56: 5122132876365872245
+      boom_darts_57: -2681191833672079140
+      boom_darts_58: 6958411404630875978
+      boom_darts_59: -6753654580633411945
+      boom_darts_6: -3593962244038026817
+      boom_darts_60: -1280029834660688472
+      boom_darts_61: 638542742184280660
+      boom_darts_62: -7125345113611891255
+      boom_darts_63: 1895106067740515150
+      boom_darts_64: 4714452477612883747
+      boom_darts_65: 7438450197896299992
+      boom_darts_66: 1983438155740743145
+      boom_darts_67: -333751163939234832
+      boom_darts_68: -1174466349356304350
+      boom_darts_69: 2909700944149558939
+      boom_darts_7: -2631104155538625971
+      boom_darts_70: -1174905396722777023
+      boom_darts_71: 3821423379427673946
+      boom_darts_72: 7898242114663882326
+      boom_darts_73: -817635760906193609
+      boom_darts_74: -5864602734930746433
+      boom_darts_75: 5395786736452418181
+      boom_darts_76: -5854470168187998398
+      boom_darts_77: 2935064146228718857
+      boom_darts_78: -7935448520427565424
+      boom_darts_79: -262226067809896348
+      boom_darts_8: -3824486837965831816
+      boom_darts_80: -736883065844265496
+      boom_darts_81: 4190732271816590654
+      boom_darts_82: -8032002599156300283
+      boom_darts_83: -2781010460328059836
+      boom_darts_84: -4559966765951786995
+      boom_darts_85: -4253357652980662069
+      boom_darts_86: 3176766742389754822
+      boom_darts_87: -5300782449684340582
+      boom_darts_88: -2370108914703114676
+      boom_darts_89: -1989604122388346012
+      boom_darts_9: -7522911937023452747
+      boom_darts_90: 7645073479586654363
+      boom_darts_91: 3301276953570776971
+      boom_darts_92: 5254301375868121434
+      boom_darts_93: 4419183117345049050
+      boom_darts_94: 4400593275315569802
+      boom_darts_95: 4204138517103720214
+      boom_darts_96: 4066959580388746781
+      boom_darts_97: 1177897361459538500
+      boom_darts_98: 5819461237661693318
+      boom_darts_99: -2187168947881460775
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

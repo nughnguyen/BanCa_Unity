@@ -1,0 +1,3536 @@
+fileFormatVersion: 2
+guid: 435efcd81218d5c4ba1fea2c7464ec39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8681479565139705676
+    second: Text_Laser_Gun_0
+  - first:
+      213: 6093796878100252714
+    second: Text_Laser_Gun_1
+  - first:
+      213: -8302885467552147759
+    second: Text_Laser_Gun_2
+  - first:
+      213: 860525133964097983
+    second: Text_Laser_Gun_3
+  - first:
+      213: -6084189379791388094
+    second: Text_Laser_Gun_4
+  - first:
+      213: -1142985424974542841
+    second: Text_Laser_Gun_5
+  - first:
+      213: 327027764975135475
+    second: Text_Laser_Gun_6
+  - first:
+      213: -2353060688005310068
+    second: Text_Laser_Gun_7
+  - first:
+      213: -6889048783632333767
+    second: Text_Laser_Gun_8
+  - first:
+      213: -805269918964846169
+    second: Text_Laser_Gun_9
+  - first:
+      213: 2032468031796094362
+    second: Text_Laser_Gun_10
+  - first:
+      213: 1284098491141552918
+    second: Text_Laser_Gun_11
+  - first:
+      213: -5152314213711073237
+    second: Text_Laser_Gun_12
+  - first:
+      213: -701486729074935159
+    second: Text_Laser_Gun_13
+  - first:
+      213: -4773821446982822683
+    second: Text_Laser_Gun_14
+  - first:
+      213: -2857908304704575271
+    second: Text_Laser_Gun_15
+  - first:
+      213: -3281265206111803051
+    second: Text_Laser_Gun_16
+  - first:
+      213: -8241487504992404476
+    second: Text_Laser_Gun_17
+  - first:
+      213: -7385021673431035803
+    second: Text_Laser_Gun_18
+  - first:
+      213: 7373041414354106644
+    second: Text_Laser_Gun_19
+  - first:
+      213: 33474185920558803
+    second: Text_Laser_Gun_20
+  - first:
+      213: -2672028124917586402
+    second: Text_Laser_Gun_21
+  - first:
+      213: -256277988792389960
+    second: Text_Laser_Gun_22
+  - first:
+      213: 5785031124479285343
+    second: Text_Laser_Gun_23
+  - first:
+      213: 4209866491312930198
+    second: Text_Laser_Gun_24
+  - first:
+      213: 481931065805831486
+    second: Text_Laser_Gun_25
+  - first:
+      213: 7977233851455800825
+    second: Text_Laser_Gun_26
+  - first:
+      213: -2350002771203862127
+    second: Text_Laser_Gun_27
+  - first:
+      213: 6010356118266190534
+    second: Text_Laser_Gun_28
+  - first:
+      213: -5389512062435169164
+    second: Text_Laser_Gun_29
+  - first:
+      213: -8526103364905108804
+    second: Text_Laser_Gun_30
+  - first:
+      213: -3608885024078978174
+    second: Text_Laser_Gun_31
+  - first:
+      213: 498230769879235078
+    second: Text_Laser_Gun_32
+  - first:
+      213: -2130346559752926058
+    second: Text_Laser_Gun_33
+  - first:
+      213: -8441173504799772619
+    second: Text_Laser_Gun_34
+  - first:
+      213: -4291872416491421779
+    second: Text_Laser_Gun_35
+  - first:
+      213: -5092129470088185615
+    second: Text_Laser_Gun_36
+  - first:
+      213: -2369264740090806588
+    second: Text_Laser_Gun_37
+  - first:
+      213: 449914043554736592
+    second: Text_Laser_Gun_38
+  - first:
+      213: -2800684095007020386
+    second: Text_Laser_Gun_39
+  - first:
+      213: 2326456828463086279
+    second: Text_Laser_Gun_40
+  - first:
+      213: 6348125304026547822
+    second: Text_Laser_Gun_41
+  - first:
+      213: -3993966389469035177
+    second: Text_Laser_Gun_42
+  - first:
+      213: -9172241462077308181
+    second: Text_Laser_Gun_43
+  - first:
+      213: 2610817680507250906
+    second: Text_Laser_Gun_44
+  - first:
+      213: -439835489787797397
+    second: Text_Laser_Gun_45
+  - first:
+      213: 4072531472693632889
+    second: Text_Laser_Gun_46
+  - first:
+      213: 3438290332155406018
+    second: Text_Laser_Gun_47
+  - first:
+      213: 2826080237301292877
+    second: Text_Laser_Gun_48
+  - first:
+      213: 2900966791942629337
+    second: Text_Laser_Gun_49
+  - first:
+      213: -3728513335458554914
+    second: Text_Laser_Gun_50
+  - first:
+      213: -5440758783874127947
+    second: Text_Laser_Gun_51
+  - first:
+      213: -4086514019165098169
+    second: Text_Laser_Gun_52
+  - first:
+      213: 1865169154222608107
+    second: Text_Laser_Gun_53
+  - first:
+      213: 4017890900708949901
+    second: Text_Laser_Gun_54
+  - first:
+      213: 1436888852287207355
+    second: Text_Laser_Gun_55
+  - first:
+      213: -6963036193147729717
+    second: Text_Laser_Gun_56
+  - first:
+      213: -1593519382412367125
+    second: Text_Laser_Gun_57
+  - first:
+      213: -6385318022096921634
+    second: Text_Laser_Gun_58
+  - first:
+      213: -3085492452638621498
+    second: Text_Laser_Gun_59
+  - first:
+      213: -8905343200996308810
+    second: Text_Laser_Gun_60
+  - first:
+      213: 241406785828031922
+    second: Text_Laser_Gun_61
+  - first:
+      213: 2542212653897562953
+    second: Text_Laser_Gun_62
+  - first:
+      213: -4566193457371982725
+    second: Text_Laser_Gun_63
+  - first:
+      213: 5282952038233880899
+    second: Text_Laser_Gun_64
+  - first:
+      213: 5468449997750419770
+    second: Text_Laser_Gun_65
+  - first:
+      213: -4183426690423097865
+    second: Text_Laser_Gun_66
+  - first:
+      213: -5931744912992825432
+    second: Text_Laser_Gun_67
+  - first:
+      213: -3824762825226494954
+    second: Text_Laser_Gun_68
+  - first:
+      213: 3434719182895497131
+    second: Text_Laser_Gun_69
+  - first:
+      213: 3437799480758487770
+    second: Text_Laser_Gun_70
+  - first:
+      213: -8005505176439054325
+    second: Text_Laser_Gun_71
+  - first:
+      213: -5070700884076342603
+    second: Text_Laser_Gun_72
+  - first:
+      213: 1198481508502343906
+    second: Text_Laser_Gun_73
+  - first:
+      213: 1159807917032453554
+    second: Text_Laser_Gun_74
+  - first:
+      213: 1482444346975867006
+    second: Text_Laser_Gun_75
+  - first:
+      213: 4013058863511416842
+    second: Text_Laser_Gun_76
+  - first:
+      213: 1064533016306047668
+    second: Text_Laser_Gun_77
+  - first:
+      213: 1477591450976477154
+    second: Text_Laser_Gun_78
+  - first:
+      213: 7344907839115334777
+    second: Text_Laser_Gun_79
+  - first:
+      213: 8058515193610100049
+    second: Text_Laser_Gun_80
+  - first:
+      213: -7686849943783948902
+    second: Text_Laser_Gun_81
+  - first:
+      213: 3434391931438618243
+    second: Text_Laser_Gun_82
+  - first:
+      213: -7628731018948732150
+    second: Text_Laser_Gun_83
+  - first:
+      213: 2677578230764333476
+    second: Text_Laser_Gun_84
+  - first:
+      213: 2848272777074089907
+    second: Text_Laser_Gun_85
+  - first:
+      213: 9129608931206053962
+    second: Text_Laser_Gun_86
+  - first:
+      213: 1264599284212102474
+    second: Text_Laser_Gun_87
+  - first:
+      213: -7839118609248451607
+    second: Text_Laser_Gun_88
+  - first:
+      213: 3187870581346889616
+    second: Text_Laser_Gun_89
+  - first:
+      213: -2989306224418587629
+    second: Text_Laser_Gun_90
+  - first:
+      213: -5257363128378982229
+    second: Text_Laser_Gun_91
+  - first:
+      213: -6830985377752081859
+    second: Text_Laser_Gun_92
+  - first:
+      213: 1690880571257876651
+    second: Text_Laser_Gun_93
+  - first:
+      213: 2737357689335736421
+    second: Text_Laser_Gun_94
+  - first:
+      213: 9133360081637677903
+    second: Text_Laser_Gun_95
+  - first:
+      213: 2679257844971186924
+    second: Text_Laser_Gun_96
+  - first:
+      213: 3945717204420452551
+    second: Text_Laser_Gun_97
+  - first:
+      213: -6394916224754007365
+    second: Text_Laser_Gun_98
+  - first:
+      213: -8926576679908488553
+    second: Text_Laser_Gun_99
+  - first:
+      213: 2195604547931699938
+    second: Text_Laser_Gun_100
+  - first:
+      213: 8857941167073510718
+    second: Text_Laser_Gun_101
+  - first:
+      213: 5079944115817769341
+    second: Text_Laser_Gun_102
+  - first:
+      213: 6924632083639574355
+    second: Text_Laser_Gun_103
+  - first:
+      213: -1388613451601374008
+    second: Text_Laser_Gun_104
+  - first:
+      213: 2627537710244575877
+    second: Text_Laser_Gun_105
+  - first:
+      213: -2912332835988442406
+    second: Text_Laser_Gun_106
+  - first:
+      213: -5219408570086351910
+    second: Text_Laser_Gun_107
+  - first:
+      213: -8766415244408247440
+    second: Text_Laser_Gun_108
+  - first:
+      213: 2579440145079533943
+    second: Text_Laser_Gun_109
+  - first:
+      213: -7474404819989815240
+    second: Text_Laser_Gun_110
+  - first:
+      213: 4998316717280462174
+    second: Text_Laser_Gun_111
+  - first:
+      213: 3776265746417833943
+    second: Text_Laser_Gun_112
+  - first:
+      213: 842439977436840426
+    second: Text_Laser_Gun_113
+  - first:
+      213: 2278748577087145394
+    second: Text_Laser_Gun_114
+  - first:
+      213: -491648145416146646
+    second: Text_Laser_Gun_115
+  - first:
+      213: -1492803232251345615
+    second: Text_Laser_Gun_116
+  - first:
+      213: 240085379952184374
+    second: Text_Laser_Gun_117
+  - first:
+      213: -3003544012015356573
+    second: Text_Laser_Gun_118
+  - first:
+      213: 8574380475995637718
+    second: Text_Laser_Gun_119
+  - first:
+      213: 8208658826077643599
+    second: Text_Laser_Gun_120
+  - first:
+      213: -7834033431958498614
+    second: Text_Laser_Gun_121
+  - first:
+      213: 5047178908604821791
+    second: Text_Laser_Gun_122
+  - first:
+      213: 5978333204916406459
+    second: Text_Laser_Gun_123
+  - first:
+      213: -6936782203176406540
+    second: Text_Laser_Gun_124
+  - first:
+      213: 1163698499188370775
+    second: Text_Laser_Gun_125
+  - first:
+      213: 7439852171169893740
+    second: Text_Laser_Gun_126
+  - first:
+      213: 5072218639833766096
+    second: Text_Laser_Gun_127
+  - first:
+      213: 3565302762299983431
+    second: Text_Laser_Gun_128
+  - first:
+      213: -1146045391476928777
+    second: Text_Laser_Gun_129
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Text_Laser_Gun_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 929
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0090bf450358780800000000000000
+      internalID: -8681479565139705676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 929
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28cc8c69f3819450800000000000000
+      internalID: 6093796878100252714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 969
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d61dc768a936cc80800000000000000
+      internalID: -8302885467552147759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 919
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9b932dc0331fb00800000000000000
+      internalID: 860525133964097983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 848
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24284579efd909ba0800000000000000
+      internalID: -6084189379791388094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 848
+        width: 41
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70881f0dfcc4320f0800000000000000
+      internalID: -1142985424974542841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 844
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa68030506d98400800000000000000
+      internalID: 327027764975135475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 857
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89d18475cf385fd0800000000000000
+      internalID: -2353060688005310068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 856
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934024b81ae2560a0800000000000000
+      internalID: -6889048783632333767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 855
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1fac3764b13d4f0800000000000000
+      internalID: -805269918964846169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_10
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 854
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a952b8c08e6c43c10800000000000000
+      internalID: 2032468031796094362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 855
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b7b1536c802d110800000000000000
+      internalID: 1284098491141552918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_12
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 857
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b203e80558d4f78b0800000000000000
+      internalID: -5152314213711073237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_13
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 903
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a76da5981d346f0800000000000000
+      internalID: -701486729074935159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_14
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 900
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4927fcfaaffbdb0800000000000000
+      internalID: -4773821446982822683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_15
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 901
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8e179e98ba658d0800000000000000
+      internalID: -2857908304704575271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 767
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5596bdf0eaa9672d0800000000000000
+      internalID: -3281265206111803051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 775
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c7b1c87ca50ad80800000000000000
+      internalID: -8241487504992404476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 777
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56015906ae1238990800000000000000
+      internalID: -7385021673431035803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 797
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419f1d03a1e425660800000000000000
+      internalID: 7373041414354106644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_20
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 799
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6b0f0489ce67000800000000000000
+      internalID: 33474185920558803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_21
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 800
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e162f60d39c0bead0800000000000000
+      internalID: -2672028124917586402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_22
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 802
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be274ae684817cf0800000000000000
+      internalID: -256277988792389960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_23
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 796
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f589a25482f884050800000000000000
+      internalID: 5785031124479285343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_24
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 763
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69df68ed4437c6a30800000000000000
+      internalID: 4209866491312930198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_25
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 831
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3df49f30c920b600800000000000000
+      internalID: 481931065805831486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_26
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 833
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f58e363ce3d4be60800000000000000
+      internalID: 7977233851455800825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_27
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 763
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191d5313eec136fd0800000000000000
+      internalID: -2350002771203862127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_28
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 761
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca1ada9b03196350800000000000000
+      internalID: 6010356118266190534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_29
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 831
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c6ed5855b9435b0800000000000000
+      internalID: -5389512062435169164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 681
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba7190b9223da980800000000000000
+      internalID: -8526103364905108804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_31
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 681
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283ab88f03aaaedc0800000000000000
+      internalID: -3608885024078978174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 735
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a32d6de321ae600800000000000000
+      internalID: 498230769879235078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_33
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 730
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c8379471d7f62e0800000000000000
+      internalID: -2130346559752926058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 731
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53078feab6deada80800000000000000
+      internalID: -8441173504799772619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_35
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 728
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf3bb9c6c43074c0800000000000000
+      internalID: -4291872416491421779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 659
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f87819e93f1559b0800000000000000
+      internalID: -5092129470088185615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_37
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 733
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce7704954eae1fd0800000000000000
+      internalID: -2369264740090806588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_38
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 726
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d92a89507a6e3600800000000000000
+      internalID: 449914043554736592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_39
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 692
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a250d77a8f129d0800000000000000
+      internalID: -2800684095007020386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_40
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 694
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caf2ddc82c394020800000000000000
+      internalID: 2326456828463086279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_41
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 696
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66cb288452191850800000000000000
+      internalID: 6348125304026547822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 110
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75549decab49298c0800000000000000
+      internalID: -3993966389469035177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_43
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 663
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2c5c2acf6a5b080800000000000000
+      internalID: -9172241462077308181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_44
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 659
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8a1f309dc7b3420800000000000000
+      internalID: 2610817680507250906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_45
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 658
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60a69fc3f365e9f0800000000000000
+      internalID: -439835489787797397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_46
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 658
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f90861cc9848830800000000000000
+      internalID: 4072531472693632889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_47
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 653
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c668ca17d247bf20800000000000000
+      internalID: 3438290332155406018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_48
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 622
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f581ba001483720800000000000000
+      internalID: 2826080237301292877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_49
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 634
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7e1f26ded424820800000000000000
+      internalID: 2900966791942629337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_50
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 577
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb9fab30e8a14cc0800000000000000
+      internalID: -3728513335458554914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_51
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 576
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7a89266ba8e74b0800000000000000
+      internalID: -5440758783874127947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_52
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 576
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fa20e9629c947c0800000000000000
+      internalID: -4086514019165098169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_53
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 578
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee4473b67962e910800000000000000
+      internalID: 1865169154222608107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_54
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 578
+        width: 59
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ff70b8c7a62c730800000000000000
+      internalID: 4017890900708949901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_55
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 574
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb73c465ccad0f310800000000000000
+      internalID: 1436888852287207355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_56
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 555
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8cd3d59735e5f90800000000000000
+      internalID: -6963036193147729717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_57
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 563
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea6c94809ea2e9e0800000000000000
+      internalID: -1593519382412367125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 336
+        width: 424
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb530bf61bc267a0800000000000000
+      internalID: -6385318022096921634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_59
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 505
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0835346f02e25d0800000000000000
+      internalID: -3085492452638621498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_60
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 421
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8ccad8a8dd96480800000000000000
+      internalID: -8905343200996308810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_61
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 485
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd06a35136a95300800000000000000
+      internalID: 241406785828031922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_62
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 503
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b311380f0c74320800000000000000
+      internalID: 2542212653897562953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_63
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 431
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7451a54e3f91a0c0800000000000000
+      internalID: -4566193457371982725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_64
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 336
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3493b5473e0d05940800000000000000
+      internalID: 5282952038233880899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_65
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 420
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3146e3cc46d3eb40800000000000000
+      internalID: 5468449997750419770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_66
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 352
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5717df69b71f5c0800000000000000
+      internalID: -4183426690423097865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_67
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 351
+        width: 40
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af05daed653eada0800000000000000
+      internalID: -5931744912992825432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_68
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 508
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c51449976bbeac0800000000000000
+      internalID: -3824762825226494954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_69
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 312
+        width: 77
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafb4bf16e29aaf20800000000000000
+      internalID: 3434719182895497131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_70
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 281
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adac1abd96485bf20800000000000000
+      internalID: 3437799480758487770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_71
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 280
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00accef47bb6e090800000000000000
+      internalID: -8005505176439054325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_72
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 281
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2de52696041a9b0800000000000000
+      internalID: -5070700884076342603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_73
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 276
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e01828059cd1a010800000000000000
+      internalID: 1198481508502343906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_74
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 327
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5b766d727781010800000000000000
+      internalID: 1159807917032453554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_75
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 227
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7058cc7743b29410800000000000000
+      internalID: 1482444346975867006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_76
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 143
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00b45636cf31b730800000000000000
+      internalID: 4013058863511416842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_77
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 227
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bad890632bf5ce00800000000000000
+      internalID: 1064533016306047668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_78
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 226
+        width: 40
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef5b969895718410800000000000000
+      internalID: 1477591450976477154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_79
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 217
+        width: 41
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9749372c3ca5ee560800000000000000
+      internalID: 7344907839115334777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_80
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 223
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dd73c6fd895df60800000000000000
+      internalID: 8058515193610100049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_81
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 212
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9db60be3b2d25590800000000000000
+      internalID: -7686849943783948902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_82
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 215
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386ddd4f34969af20800000000000000
+      internalID: 3434391931438618243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_83
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 219
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b9e889e8d412690800000000000000
+      internalID: -7628731018948732150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_84
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 208
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9e607e63ba82520800000000000000
+      internalID: 2677578230764333476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_85
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 142
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf9aecfff8178720800000000000000
+      internalID: 2848272777074089907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_86
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 145
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4045c2c3f2e2be70800000000000000
+      internalID: 9129608931206053962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_87
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 147
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45fcae4952cc8110800000000000000
+      internalID: 1264599284212102474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_88
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 145
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e38797882bd53390800000000000000
+      internalID: -7839118609248451607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_89
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 150
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f691757679d3c20800000000000000
+      internalID: 3187870581346889616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_90
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 149
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c7aa0b3d9d386d0800000000000000
+      internalID: -2989306224418587629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_91
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 83
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba00cb5e6181a07b0800000000000000
+      internalID: -5257363128378982229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_92
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 138
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a1335bdf67331a0800000000000000
+      internalID: -6830985377752081859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_93
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 135
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba07f6fbbe6377710800000000000000
+      internalID: 1690880571257876651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_94
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 85
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5686a08b05c0df520800000000000000
+      internalID: 2737357689335736421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_95
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 82
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b1fb78a9630ce70800000000000000
+      internalID: 9133360081637677903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_96
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 82
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceaaf2f80d2ae2520800000000000000
+      internalID: 2679257844971186924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_97
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 70
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0e0a164e002c630800000000000000
+      internalID: 3945717204420452551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_98
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 113
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2c7274391b047a0800000000000000
+      internalID: -6394916224754007365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_99
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 111
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ac4cdfdcd6e1480800000000000000
+      internalID: -8926576679908488553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_100
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea73ba14ba587e10800000000000000
+      internalID: 2195604547931699938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_101
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 95
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35c9b06f8abdea70800000000000000
+      internalID: 8857941167073510718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_102
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 98
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79672632469f7640800000000000000
+      internalID: 5079944115817769341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_103
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 103
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f1c99113c391060800000000000000
+      internalID: 6924632083639574355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_104
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 86
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c498f64c67aabce0800000000000000
+      internalID: -1388613451601374008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_105
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 71
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a321d40a3e67420800000000000000
+      internalID: 2627537710244575877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_106
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 79
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2f33347b05597d0800000000000000
+      internalID: -2912332835988442406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_107
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb9f522f8fe097b0800000000000000
+      internalID: -5219408570086351910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_108
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 47
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b2a7b18cf675680800000000000000
+      internalID: -8766415244408247440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_109
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77109de35230cc320800000000000000
+      internalID: 2579440145079533943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_110
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8302a05da64954890800000000000000
+      internalID: -7474404819989815240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_111
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55066872969d5540800000000000000
+      internalID: 4998316717280462174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_112
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7d5b850bdf76430800000000000000
+      internalID: 3776265746417833943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_113
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae106bf22b2f0bb00800000000000000
+      internalID: 842439977436840426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_114
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5c4bde1cdbf9f10800000000000000
+      internalID: 2278748577087145394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_115
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 55
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21bdf9dd905d29f0800000000000000
+      internalID: -491648145416146646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_116
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 62
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1358a169e5f784be0800000000000000
+      internalID: -1492803232251345615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_117
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 51
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c80db8164f45300800000000000000
+      internalID: 240085379952184374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_118
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 45
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365b29072a44156d0800000000000000
+      internalID: -3003544012015356573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_119
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 47
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7c3c82d915ef670800000000000000
+      internalID: 8574380475995637718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_120
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 44
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43abb206b30be170800000000000000
+      internalID: 8208658826077643599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_121
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 31
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac25491a91ce74390800000000000000
+      internalID: -7834033431958498614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_122
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 39
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11fb3de97e2b0640800000000000000
+      internalID: 5047178908604821791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_123
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 28
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb807f3106e47f250800000000000000
+      internalID: 5978333204916406459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_124
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 29
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f13b6fb6599bbf90800000000000000
+      internalID: -6936782203176406540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_125
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 31
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d27c59e99462010800000000000000
+      internalID: 1163698499188370775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_126
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 13
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d0004b12aaf3760800000000000000
+      internalID: 7439852171169893740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_127
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8186aaaf3246640800000000000000
+      internalID: 5072218639833766096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_128
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7460c97f8ff7a7130800000000000000
+      internalID: 3565302762299983431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Text_Laser_Gun_129
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe4b88d9cd6810f0800000000000000
+      internalID: -1146045391476928777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Text_Laser_Gun_0: -8681479565139705676
+      Text_Laser_Gun_1: 6093796878100252714
+      Text_Laser_Gun_10: 2032468031796094362
+      Text_Laser_Gun_100: 2195604547931699938
+      Text_Laser_Gun_101: 8857941167073510718
+      Text_Laser_Gun_102: 5079944115817769341
+      Text_Laser_Gun_103: 6924632083639574355
+      Text_Laser_Gun_104: -1388613451601374008
+      Text_Laser_Gun_105: 2627537710244575877
+      Text_Laser_Gun_106: -2912332835988442406
+      Text_Laser_Gun_107: -5219408570086351910
+      Text_Laser_Gun_108: -8766415244408247440
+      Text_Laser_Gun_109: 2579440145079533943
+      Text_Laser_Gun_11: 1284098491141552918
+      Text_Laser_Gun_110: -7474404819989815240
+      Text_Laser_Gun_111: 4998316717280462174
+      Text_Laser_Gun_112: 3776265746417833943
+      Text_Laser_Gun_113: 842439977436840426
+      Text_Laser_Gun_114: 2278748577087145394
+      Text_Laser_Gun_115: -491648145416146646
+      Text_Laser_Gun_116: -1492803232251345615
+      Text_Laser_Gun_117: 240085379952184374
+      Text_Laser_Gun_118: -3003544012015356573
+      Text_Laser_Gun_119: 8574380475995637718
+      Text_Laser_Gun_12: -5152314213711073237
+      Text_Laser_Gun_120: 8208658826077643599
+      Text_Laser_Gun_121: -7834033431958498614
+      Text_Laser_Gun_122: 5047178908604821791
+      Text_Laser_Gun_123: 5978333204916406459
+      Text_Laser_Gun_124: -6936782203176406540
+      Text_Laser_Gun_125: 1163698499188370775
+      Text_Laser_Gun_126: 7439852171169893740
+      Text_Laser_Gun_127: 5072218639833766096
+      Text_Laser_Gun_128: 3565302762299983431
+      Text_Laser_Gun_129: -1146045391476928777
+      Text_Laser_Gun_13: -701486729074935159
+      Text_Laser_Gun_14: -4773821446982822683
+      Text_Laser_Gun_15: -2857908304704575271
+      Text_Laser_Gun_16: -3281265206111803051
+      Text_Laser_Gun_17: -8241487504992404476
+      Text_Laser_Gun_18: -7385021673431035803
+      Text_Laser_Gun_19: 7373041414354106644
+      Text_Laser_Gun_2: -8302885467552147759
+      Text_Laser_Gun_20: 33474185920558803
+      Text_Laser_Gun_21: -2672028124917586402
+      Text_Laser_Gun_22: -256277988792389960
+      Text_Laser_Gun_23: 5785031124479285343
+      Text_Laser_Gun_24: 4209866491312930198
+      Text_Laser_Gun_25: 481931065805831486
+      Text_Laser_Gun_26: 7977233851455800825
+      Text_Laser_Gun_27: -2350002771203862127
+      Text_Laser_Gun_28: 6010356118266190534
+      Text_Laser_Gun_29: -5389512062435169164
+      Text_Laser_Gun_3: 860525133964097983
+      Text_Laser_Gun_30: -8526103364905108804
+      Text_Laser_Gun_31: -3608885024078978174
+      Text_Laser_Gun_32: 498230769879235078
+      Text_Laser_Gun_33: -2130346559752926058
+      Text_Laser_Gun_34: -8441173504799772619
+      Text_Laser_Gun_35: -4291872416491421779
+      Text_Laser_Gun_36: -5092129470088185615
+      Text_Laser_Gun_37: -2369264740090806588
+      Text_Laser_Gun_38: 449914043554736592
+      Text_Laser_Gun_39: -2800684095007020386
+      Text_Laser_Gun_4: -6084189379791388094
+      Text_Laser_Gun_40: 2326456828463086279
+      Text_Laser_Gun_41: 6348125304026547822
+      Text_Laser_Gun_42: -3993966389469035177
+      Text_Laser_Gun_43: -9172241462077308181
+      Text_Laser_Gun_44: 2610817680507250906
+      Text_Laser_Gun_45: -439835489787797397
+      Text_Laser_Gun_46: 4072531472693632889
+      Text_Laser_Gun_47: 3438290332155406018
+      Text_Laser_Gun_48: 2826080237301292877
+      Text_Laser_Gun_49: 2900966791942629337
+      Text_Laser_Gun_5: -1142985424974542841
+      Text_Laser_Gun_50: -3728513335458554914
+      Text_Laser_Gun_51: -5440758783874127947
+      Text_Laser_Gun_52: -4086514019165098169
+      Text_Laser_Gun_53: 1865169154222608107
+      Text_Laser_Gun_54: 4017890900708949901
+      Text_Laser_Gun_55: 1436888852287207355
+      Text_Laser_Gun_56: -6963036193147729717
+      Text_Laser_Gun_57: -1593519382412367125
+      Text_Laser_Gun_58: -6385318022096921634
+      Text_Laser_Gun_59: -3085492452638621498
+      Text_Laser_Gun_6: 327027764975135475
+      Text_Laser_Gun_60: -8905343200996308810
+      Text_Laser_Gun_61: 241406785828031922
+      Text_Laser_Gun_62: 2542212653897562953
+      Text_Laser_Gun_63: -4566193457371982725
+      Text_Laser_Gun_64: 5282952038233880899
+      Text_Laser_Gun_65: 5468449997750419770
+      Text_Laser_Gun_66: -4183426690423097865
+      Text_Laser_Gun_67: -5931744912992825432
+      Text_Laser_Gun_68: -3824762825226494954
+      Text_Laser_Gun_69: 3434719182895497131
+      Text_Laser_Gun_7: -2353060688005310068
+      Text_Laser_Gun_70: 3437799480758487770
+      Text_Laser_Gun_71: -8005505176439054325
+      Text_Laser_Gun_72: -5070700884076342603
+      Text_Laser_Gun_73: 1198481508502343906
+      Text_Laser_Gun_74: 1159807917032453554
+      Text_Laser_Gun_75: 1482444346975867006
+      Text_Laser_Gun_76: 4013058863511416842
+      Text_Laser_Gun_77: 1064533016306047668
+      Text_Laser_Gun_78: 1477591450976477154
+      Text_Laser_Gun_79: 7344907839115334777
+      Text_Laser_Gun_8: -6889048783632333767
+      Text_Laser_Gun_80: 8058515193610100049
+      Text_Laser_Gun_81: -7686849943783948902
+      Text_Laser_Gun_82: 3434391931438618243
+      Text_Laser_Gun_83: -7628731018948732150
+      Text_Laser_Gun_84: 2677578230764333476
+      Text_Laser_Gun_85: 2848272777074089907
+      Text_Laser_Gun_86: 9129608931206053962
+      Text_Laser_Gun_87: 1264599284212102474
+      Text_Laser_Gun_88: -7839118609248451607
+      Text_Laser_Gun_89: 3187870581346889616
+      Text_Laser_Gun_9: -805269918964846169
+      Text_Laser_Gun_90: -2989306224418587629
+      Text_Laser_Gun_91: -5257363128378982229
+      Text_Laser_Gun_92: -6830985377752081859
+      Text_Laser_Gun_93: 1690880571257876651
+      Text_Laser_Gun_94: 2737357689335736421
+      Text_Laser_Gun_95: 9133360081637677903
+      Text_Laser_Gun_96: 2679257844971186924
+      Text_Laser_Gun_97: 3945717204420452551
+      Text_Laser_Gun_98: -6394916224754007365
+      Text_Laser_Gun_99: -8926576679908488553
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
